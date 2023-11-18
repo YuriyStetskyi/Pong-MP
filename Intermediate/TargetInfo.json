@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestTask_FaromStudio",
+			"Path": "D:\\Programming\\Unreal Engine 4\\UE_4.27 Projects\\TestTask_FaromStudio\\TestTask_FaromStudio\\Source\\TestTask_FaromStudio.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestTask_FaromStudioEditor",
+			"Path": "D:\\Programming\\Unreal Engine 4\\UE_4.27 Projects\\TestTask_FaromStudio\\TestTask_FaromStudio\\Source\\TestTask_FaromStudioEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

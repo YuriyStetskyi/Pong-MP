@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestTask_FaromStudio-0111.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\TestTask_FaromStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Ball.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\MyGameModeBase.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\MyPlayerController.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Player_Platform.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\TestTask_FaromStudio.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\TestTask_FaromStudioGameModeBase.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Ball.gen.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\MyGameModeBase.gen.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\MyPlayerController.gen.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Player_Platform.gen.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\TestTask_FaromStudio.init.gen.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\TestTask_FaromStudioGameModeBase.gen.cpp.obj"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Default.rc2.res"
+/OUT:"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-0111.lib"

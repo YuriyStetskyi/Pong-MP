@@ -1,0 +1,1023 @@
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Definitions.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\Ball.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\CoreTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Build.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\sal.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\concurrencysal.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\CoreFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\initializer_list
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\yvals_core.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\vcruntime.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\vadefs.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xkeycheck.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\cstddef
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xtr1common
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\new
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\exception
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\crtdbg.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\vcruntime_new_debug.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\vcruntime_new.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\crtdefs.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\use_ansi.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstdlib.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\limits.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\type_traits
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\cstdint
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\stdint.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\malloc.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\vcruntime_exception.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\errno.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\sys/types.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\stdio.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\stdarg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\corecrt_memory.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\intrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\intrin0.inl.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\setjmp.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\immintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\wmmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\nmmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\smmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\tmmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\pmmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\emmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xmmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\mmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\zmmintrin.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\ammintrin.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared\strsafe.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Traits/IntType.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Models.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Identity.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ChooseClass.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IntegralConstant.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsClass.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Microsoft/MicrosoftPlatformMath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/MemoryOps.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ContainerAllocationPolicies.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsPolymorphic.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsEnumClass.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformProperties.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProperties.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProperties.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Compression.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/NameTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Array.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/Archive.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Function.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Decay.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Invoke.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/PointerIsConvertibleFromTo.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StaticAssertCompleteType.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/LosesQualifiersFromTo.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsConstructible.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsInvocable.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsMemberPointer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EngineVersionBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryImageWriter.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryLayout.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Crc.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Char.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\wctype.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CString.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StringFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/DelayedAutoRegister.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Heapify.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Impl/BinaryHeap.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ReversePredicate.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IdentityFunctor.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Less.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/HeapSort.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/IsHeap.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Sorting.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/BinarySearch.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Sort.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/IntroSort.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringFormatArg.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/CriticalSection.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Timespan.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Interval.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StringConv.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/UnrealNames.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject\UnrealNames.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FrameNumber.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Parse.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Color.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Optional.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Set.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RetainedRef.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Map.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\tuple
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\__msvc_iter_core.hpp
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\utility
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/IntVector.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogCategory.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogScopedCategoryAndVerbosityOverride.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Logging/LogTrace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Vector2D.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/IntRect.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ByteSwap.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/CulturePointer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ArrayView.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/TextKey.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/LocTesting.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/LocKeyFuncs.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/LocalizedTextSourceTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Text.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCoreFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/ITextData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/Internationalization.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Vector.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Axis.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Vector4.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/VectorRegister.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathSSE.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/sse_mathfun.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorConstants.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorCommon.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Edge.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/ObjectVersion.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Plane.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Rotator.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RangeBound.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AutomationEvent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Guid.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Range.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Box.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Matrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Matrix.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Quat.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Float32.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Float16.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Transform.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ScalarRegister.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TransformVectorized.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TransformNonVectorized.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/Ray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/Stats.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Stats\StatsCommon.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/MiscTrace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Stats\StatsTrace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Script.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectGlobals.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PrimaryAssetId.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerInstancingContext.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceRedirector.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObject.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectMarks.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ResourceSize.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Concepts/GetTypeHashable.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FallbackStruct.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNative.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GarbageCollection.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/FastReferenceCollectorOptions.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Field.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/HasGetTypeHash.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakObjectPtr.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore\InputCoreTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/List.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Async/AsyncWork.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/Event.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\typeinfo
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\vcruntime_typeinfo.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/Greater.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Templates/SubclassOf.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNet.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BitArchive.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/IConsoleManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Features/IModularFeature.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BitWriter.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/EngineTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/NetSerialization.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineLogs.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/GuidReferences.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetSerialization.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/EngineBaseTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineBaseTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\ComponentInstanceDataCache.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StructOnScope.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Package.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageId.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerSave.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/FileRegions.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/SavePackage.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectThreadContext.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/WorldCompositionUtility.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ObjectThumbnail.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ComponentInstanceDataCache.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphPin.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphNode.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraphNode.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraphPin.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_AssetUserData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Interface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_AssetUserData.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAnnotation.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ActorComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModelMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ChildActorComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\Change.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialMerging.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Level.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Actor.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/PrimitiveComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\Chaos/ChaosEngineInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Declares.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/ParticleHandleFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Real.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/PBDRigidsEvolutionFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceWrapperShared.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceTypesCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/CollisionFilterData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\ChaosArchive.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\Serializable.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/DestructionObjectVersion.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/ExternalPhysicsCustomObjectVersion.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\PhysicsProxy/SingleParticlePhysicsProxyFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\ChaosEngineInterface.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/BodyInstance.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineDefines.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\PhysxUserData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceDeclares.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfacePhysX.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineGlobals.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/ConstraintTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ConstraintTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics\PhysicsInterfaceTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\BodySetupEnums.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\BodySetupEnums.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics\GenericPhysicsInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\WorldCollision.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/PhysScene_PhysX.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\PhysicsPublic.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHI.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIResources.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIContext.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\atomic
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\cstring
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xatomic.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\intrin0.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xthreads.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\climits
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xtimec.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\time.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\LocalVertexFactory.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderParameters.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Components.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\Shader.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/HashTable.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderPermutation.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ShaderCodeLibrary.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Components.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\DynamicMeshBuilder.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\PackedNormal.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\HitProxies.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ICursor.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderUtils.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneManagement.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\ConvexVolume.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RendererInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\VirtualTexturing.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureLightProfile.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Texture2D.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Texture.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkDataCommon.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkData2.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Serialization\BulkDataBuffer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\IO/IoDispatcher.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\IO/IoContainerId.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureDefines.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureDefines.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\MaterialShared.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\StaticParameterSet.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/FortniteMainBranchObjectVersion.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/ReleaseObjectVersion.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Materials/MaterialLayersFunctions.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetBundleData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetDataTagMap.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialLayersFunctions.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticParameterSet.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\MaterialSceneTextureId.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialSceneTextureId.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\TextureResource.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\UnrealClient.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Input/PopupMethodReply.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Input/ReplyBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SWidget.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FrameValue.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateColor.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/WidgetStyle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateColor.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRect.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/Margin.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/SlateEnums.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateEnums.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Margin.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/Visibility.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/Clipping.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingCommon.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRotatedRect.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateLayoutTransform.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TransformCalculus.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/TransformCalculus2D.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderTransform.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Input/CursorReply.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Input/Reply.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Input/Events.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/Accessibility/GenericAccessibleInterfaces.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/Geometry.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/PaintGeometry.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Geometry.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Events.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Input/NavigationReply.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\NavigationReply.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\SlateGlobals.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Debugging/SlateDebugging.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/WidgetUpdateFlags.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/InvalidateWidgetReason.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateDebugging.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Trace/SlateTrace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\RenderingCommon.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Clipping.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedWidget.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutGeometry.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/FlowDirection.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FlowDirection.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/ISlateMetaData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/WidgetActiveTimerDelegate.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/WidgetMouseEventsDelegate.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Textures/SlateShaderResource.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/PaintArgs.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/WidgetProxy.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRootHandle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationWidgetIndex.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationWidgetSortOrder.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/DrawElements.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/ShapedTextFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/SlateFontInfo.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/CompositeFont.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\CompositeFont.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateFontInfo.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontCache.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Textures/TextureAtlas.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontCache.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/ShaderResourceManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateBrush.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateBrush.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Textures/SlateTextureData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering\DrawElementPayloads.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering\SlateRenderBatch.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering\ElementBatcher.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateWidgetAccessibleTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/StreamableRenderAsset.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureStreamingTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureStreamingTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\RenderAssetUpdate.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Streaming/StreamableRenderResourceState.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StreamableRenderAsset.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\PerPlatformProperties.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Find.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Algo/Impl/RangePointerType.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnlineFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAgentInterface.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Pawn.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintCore.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintGeneratedClass.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintGeneratedClass.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Blueprint.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\NetworkDelegates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PendingNetGame.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LatentActionManager.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/GameInstanceSubsystem.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/Subsystem.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Subsystem.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstanceSubsystem.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/SubsystemCollection.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorPlaySettings.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorPlayNetworkEmulationSettings.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IPropertyTypeCustomization.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Sound/SlateSound.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateSound.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorModule.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyle.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/DeclarativeSyntaxSupport.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SNullWidget.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\SlotBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SCompoundWidget.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/Children.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRoot.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkitHost.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkit.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Textures/SlateIcon.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailsView.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorDelegates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandList.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/UIAction.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandInfo.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\InputChord.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\UICommandInfo.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboBox.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/IMenu.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Application/SlateWindowHelper.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Application/SlateApplicationBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Application/ThrottleManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/IToolTip.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/MenuStack.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/GestureDetector.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateUser.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateScope.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\TextLayout.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBox.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboButton.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SMenuAnchor.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/STableViewBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/IScrollableWidget.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Views/ITypedTableView.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ITypedTableView.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/InertialScrollManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/Overscroll.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\STableViewBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Views/TableViewTypeTraits.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/STableRow.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/SExpanderArrow.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/SHeaderRow.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSplitter.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateCoreAccessibleWidgets.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleWidgetCache.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleMessageHandler.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/SListView.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Views/TableViewMetadata.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/SlateConstants.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBar.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorPlayNetworkEmulationSettings.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuContext.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuContext.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorPlaySettings.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstance.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldPSCPool.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioDeviceManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\AudioMixerCore\Public\AudioDefines.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioThread.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/WorldSubsystem.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine/Public/Tickable.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSubsystem.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\CollisionProfile.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\DeveloperSettings\Public\Engine/DeveloperSettings.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings\DeveloperSettings.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\World.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PerPlatformProperties.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/FieldAccessor.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2D.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureLightProfile.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\BatchedElements.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneView.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\ShowFlags.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\ShowFlagsValues.inl
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportClient.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ScriptViewportClient.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ScriptViewportClient.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ViewportSplitScreen.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TitleSafeZone.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportDelegates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DebugDisplayProperty.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugDisplayProperty.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\StereoRendering.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameViewportClient.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\SceneUtils.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ProfilingDebugging/RealtimeGPUProfiler.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\GpuProfilerTrace.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Math/SHMath.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderGraphDefinitions.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\FinalPostProcessSettings.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Scene.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/BlendableInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendableInterface.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Scene.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\BlendableManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Renderer\Public\GlobalDistanceFieldParameters.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\RHIStaticStates.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\DebugViewModeHelpers.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\StaticBoundShaderState.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RHI\Public\PipelineStateCache.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\MeshBatch.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\PrimitiveUniformShaderParameters.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\LightmapUniformShaderParameters.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\UnifiedBuffer.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\VT/RuntimeVirtualTextureEnum.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RuntimeVirtualTextureEnum.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\RenderCore\Public\DynamicBufferAllocator.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Rendering/SkyAtmosphereCommonData.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsPublicCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/RigidBodyIndexPair.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/Experimental/PhysScene_ImmediatePhysX.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/Experimental/PhysicsInterfaceImmediatePhysX.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\BodyInstanceCore.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\BodyInstanceCore.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BodyInstance.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavRelevantInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\AI/NavigationModifier.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavLinkDefinition.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavLinkDefinition.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavRelevantInterface.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PrimitiveComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Controller.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\OnlineReplStructs.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerMuteList.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerCameraManager.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveFloat.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/RichCurve.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/KeyHandle.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KeyHandle.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/RealCurve.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/IndexedCurve.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\IndexedCurve.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RealCurve.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RichCurve.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Curves/CurveOwnerInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageReload.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CurveFloat.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ForceFeedbackEffect.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/UpdateLevelVisibilityLevelInfo.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\UpdateLevelVisibilityLevelInfo.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintFunctionLibrary.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintFunctionLibrary.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\MyGameModeBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Info.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\MyPlayerController.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\Player_Platform.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\Player_Platform.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\MyPlayerController.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\MyGameModeBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\Ball.generated.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\string
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xstring
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\iosfwd
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\cstdio
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\cwchar
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xmemory
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\limits
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\cfloat
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\isa_availability.h
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\xutility
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\__msvc_sanitizer_annotate_container.hpp
+D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822\INCLUDE\cctype

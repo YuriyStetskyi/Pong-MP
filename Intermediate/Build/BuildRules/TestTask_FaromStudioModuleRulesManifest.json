@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programming\\Unreal Engine 4\\UE_4.27 Projects\\Stetskyi_FaromStudioTest_Github\\Source\\TestTask_FaromStudio\\TestTask_FaromStudio.Build.cs",
+		"D:\\Programming\\Unreal Engine 4\\UE_4.27 Projects\\Stetskyi_FaromStudioTest_Github\\Source\\TestTask_FaromStudio.Target.cs",
+		"D:\\Programming\\Unreal Engine 4\\UE_4.27 Projects\\Stetskyi_FaromStudioTest_Github\\Source\\TestTask_FaromStudioEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
