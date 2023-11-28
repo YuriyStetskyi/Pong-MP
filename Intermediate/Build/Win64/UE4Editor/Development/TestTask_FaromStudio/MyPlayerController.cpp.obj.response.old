@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio"
-/I "D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source"
+/I "D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio"
+/I "D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest\Source"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,9 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\MyPlayerController.cpp"
-/FI"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Definitions.h"
-/Fo"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\MyPlayerController.cpp.obj"
+/FI"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest\Intermediate\Build\Win64\TestTask_FaromStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest\Intermediate\Build\Win64\TestTask_FaromStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest\Intermediate\Build\Win64\TestTask_FaromStudioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest\Source\TestTask_FaromStudio\MyPlayerController.cpp"
+/FI"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Definitions.TestTask_FaromStudio.h"
+/Fo"D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\MyPlayerController.cpp.obj"
 /TP
 /GR-
 /W4

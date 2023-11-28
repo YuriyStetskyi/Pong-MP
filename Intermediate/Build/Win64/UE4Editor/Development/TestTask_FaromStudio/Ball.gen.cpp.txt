@@ -1,7 +1,7 @@
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Definitions.TestTask_FaromStudio.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Definitions.TestTask_FaromStudio.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio/Ball.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio/Ball.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
@@ -15,19 +15,27 @@ D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\MyGameModeBase.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio\MyGameModeBase.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\MyPlayerController.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\Player_Platform.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio\MyPlayerController.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio\Player_Platform.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\Player_Platform.generated.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\MyPlayerController.generated.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\MyGameModeBase.generated.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\Ball.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\Player_Platform.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\MyPlayerController.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio\MyGameStateBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\MyGameStateBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio\MyPlayerState.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\MyPlayerState.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\MyGameModeBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\Ball.generated.h

@@ -24,6 +24,13 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 // End Cross Module References
+	DEFINE_FUNCTION(ABall::execcpp_RestartGame)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->cpp_RestartGame();
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(ABall::execServer_MoveRandomly)
 	{
 		P_GET_PROPERTY(FFloatProperty,Z_Param_deltaTime);
@@ -98,6 +105,7 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 		UClass* Class = ABall::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "Client_MoveRandomly", &ABall::execClient_MoveRandomly },
+			{ "cpp_RestartGame", &ABall::execcpp_RestartGame },
 			{ "Multicast_MoveRandomly", &ABall::execMulticast_MoveRandomly },
 			{ "OnOverlapBegin", &ABall::execOnOverlapBegin },
 			{ "OnOverlapEnd", &ABall::execOnOverlapEnd },
@@ -130,6 +138,28 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABall_Client_MoveRandomly_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_ABall_cpp_RestartGame_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Ball.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABall, nullptr, "cpp_RestartGame", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_ABall_cpp_RestartGame()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -376,6 +406,7 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ABall_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_ABall_Client_MoveRandomly, "Client_MoveRandomly" }, // 2513773635
+		{ &Z_Construct_UFunction_ABall_cpp_RestartGame, "cpp_RestartGame" }, // 1874876611
 		{ &Z_Construct_UFunction_ABall_Multicast_MoveRandomly, "Multicast_MoveRandomly" }, // 4047588565
 		{ &Z_Construct_UFunction_ABall_OnOverlapBegin, "OnOverlapBegin" }, // 787443766
 		{ &Z_Construct_UFunction_ABall_OnOverlapEnd, "OnOverlapEnd" }, // 2640832631
@@ -469,7 +500,7 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABall, 2345234211);
+	IMPLEMENT_CLASS(ABall, 3125186999);
 	template<> TESTTASK_FAROMSTUDIO_API UClass* StaticClass<ABall>()
 	{
 		return ABall::StaticClass();

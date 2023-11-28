@@ -64,6 +64,19 @@ void APlayer_Platform::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& Out
 {
 	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
 	DOREPLIFETIME(APlayer_Platform, platformHidden);
+	DOREPLIFETIME(APlayer_Platform, points);
+	DOREPLIFETIME(APlayer_Platform, bothPlayersWantToRematch);
+	DOREPLIFETIME(APlayer_Platform, thisPlayerWantsToRematch);
+}
+
+void APlayer_Platform::cpp_Server_SetThisPlayerWantsToRematch_Implementation(bool playerWantsToRematch)
+{
+	thisPlayerWantsToRematch = playerWantsToRematch;
+}
+
+void APlayer_Platform::cpp_Multicast_SetThisPlayerWantsToRematch_Implementation(bool playerWantsToRematch)
+{
+	thisPlayerWantsToRematch = playerWantsToRematch;
 }
 
 void APlayer_Platform::OnRep_HidePlatform()
@@ -81,15 +94,28 @@ void APlayer_Platform::OnRep_HidePlatform()
 void APlayer_Platform::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor,
 	UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
+	//wall collision detection
+	if (!(OtherActor->Tags.Contains("ball")))
+	{
+		otherActorIsBall = false;
+		wallNormal = SweepResult.ImpactNormal;
+		isHittingWall = true;
+	}
+	else
+	{
+		otherActorIsBall = true;
+	}
+
 	//when setting location add true to get a sweep
 	if (HasAuthority()) //otherwise i get message logged twice and i spent an hour trying to figure out why
 	{
 		//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Blue, OtherComp->GetName() + " hit the platform");
 	}
-	//wall collision detection
-	wallNormal = SweepResult.ImpactNormal;
-	otherActorIsBall = OtherActor->Tags.Contains("ball");
-	isHittingWall = true;
+	else
+	{
+
+	}
+	
 }
 
 void APlayer_Platform::OnOverlapEnd(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)
@@ -98,7 +124,10 @@ void APlayer_Platform::OnOverlapEnd(UPrimitiveComponent* OverlappedComp, AActor*
 	{
 		//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Purple, OtherComp->GetName() + " stopped hitting platform");
 	}
-	isHittingWall = false;
+	if (!(OtherActor->Tags.Contains("ball")))
+	{
+		isHittingWall = false;
+	}
 }
 
 

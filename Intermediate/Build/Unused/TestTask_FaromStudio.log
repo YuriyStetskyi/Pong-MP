@@ -1,92 +1,12 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github).
-  Invalidating makefile for TestTask_FaromStudioEditor (MyPlayerController.cpp.obj.response modified)
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-0004.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-0004.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-0146.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-0146.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-0148.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-0148.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-0488.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-0488.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-1390.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-1390.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-1444.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-1444.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-1655.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-1655.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-1917.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-1917.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-2741.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-2741.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-2949.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-2949.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-3494.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-3494.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-3666.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-3666.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-3685.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-3685.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-3870.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-3870.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-4978.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-4978.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-4981.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-4981.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-5002.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-5002.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-6192.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-6192.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-6544.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-6544.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-6675.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-6675.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-7295.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-7295.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-7689.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-7689.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-9030.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-9030.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-9258.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-9258.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-9334.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-9334.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-9430.dll
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Binaries\Win64\UE4Editor-TestTask_FaromStudio-9430.pdb
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-0004.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-0146.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-0148.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-0488.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-1390.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-1444.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-1655.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-1917.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-2741.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-2949.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-3494.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-3666.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-3685.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-3870.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-4978.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-4981.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-5002.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-6192.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-6544.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-6675.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-7295.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-7689.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-9030.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-9258.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-9334.lib
-  Deleted hot-reload file: D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-9430.lib
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP).
   Building TestTask_FaromStudioEditor...
   Using Visual Studio 2022 14.37.32822 toolchain (D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 12 processes...
-    [1/4] MyPlayerController.cpp
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\MyPlayerController.cpp(10): warning C5038: data member 'AMyPlayerController::found_redPlatform' will be initialized after data member 'AMyPlayerController::allPlayersLoggedIn'
-    [2/4] UE4Editor-TestTask_FaromStudio.lib
-       Creating library D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio.lib and object D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio.exp
-    [3/4] UE4Editor-TestTask_FaromStudio.dll
-       Creating library D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio.suppressed.lib and object D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio.suppressed.exp
-    [4/4] TestTask_FaromStudioEditor.target
-  Total time in Parallel executor: 1.50 seconds
-  Total execution time: 2.90 seconds
+    [1/4] Ball.cpp
+    [2/4] UE4Editor-TestTask_FaromStudio-Win64-DebugGame.lib
+       Creating library D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\DebugGame\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.lib and object D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\DebugGame\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.exp
+    [3/4] UE4Editor-TestTask_FaromStudio-Win64-DebugGame.dll
+       Creating library D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\DebugGame\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.suppressed.lib and object D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\DebugGame\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.suppressed.exp
+    [4/4] TestTask_FaromStudioEditor-Win64-DebugGame.target
+  Total time in Parallel executor: 1.65 seconds
+  Total execution time: 6.03 seconds

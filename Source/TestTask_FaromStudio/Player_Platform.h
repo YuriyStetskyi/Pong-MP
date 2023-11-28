@@ -37,8 +37,24 @@ public:
 	bool otherActorIsBall;
 
 	//scoring
-	UPROPERTY(VisibleAnywhere, Category = "MyStuff")
+	UPROPERTY(Replicated, EditAnywhere, BlueprintReadWrite, Category = "cpp_Points")
 	int points;
+
+	//game ended
+	UPROPERTY(Replicated, EditAnywhere, BlueprintReadWrite)
+	bool bothPlayersWantToRematch;
+
+	UPROPERTY(Replicated, EditAnywhere, BlueprintReadWrite)
+	bool thisPlayerWantsToRematch;
+
+	UFUNCTION(Server, Unreliable, BlueprintCallable)
+	void cpp_Server_SetThisPlayerWantsToRematch(bool playerWantsToRematch);
+	void cpp_Server_SetThisPlayerWantsToRematch_Implementation(bool playerWantsToRematch);
+
+	UFUNCTION(NetMulticast, Unreliable, BlueprintCallable)
+	void cpp_Multicast_SetThisPlayerWantsToRematch(bool playerWantsToRematch);
+	void cpp_Multicast_SetThisPlayerWantsToRematch_Implementation(bool playerWantsToRematch);
+
 private:
 
 	//components

@@ -37,7 +37,7 @@ void ABall::BeginPlay()
 	//or other way to make random starting vector work so its hardcoded
 	if (HasAuthority())
 	{
-		//movementDirection = GetActorForwardVector();/* +GetActorRightVector() * 0.8;*/
+		//movementDirection = GetActorForwardVector();
 		SetRandomDirection(movementDirection);
 		movementDirection.Normalize();
 	}
@@ -145,39 +145,74 @@ void ABall::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* Oth
 		if (OtherActor->ActorHasTag("blue_goal"))
 		{
 			((APlayer_Platform*)client_platform)->points += 1;
-			int pts = ((APlayer_Platform*)client_platform)->points;
-			FString Message = FString::Printf(TEXT("RED SCORED: %d"), pts);
-			GEngine->AddOnScreenDebugMessage(-1, 2.0f, FColor::Red, Message, true, FVector2D(2, 2));
-			speed = 1000;
 			SetActorLocation(startLocation);
-			SetRandomDirection(movementDirection);
-			movementDirection.Normalize();
+			cpp_RestartGame();
 			return;
 		}
 		else if (OtherActor->ActorHasTag("red_goal"))
 		{
 			((APlayer_Platform*)host_platform)->points += 1;
-			int pts = ((APlayer_Platform*)host_platform)->points;
-			FString Message = FString::Printf(TEXT("BLUE SCORED: %d"), pts);
-			GEngine->AddOnScreenDebugMessage(-1, 2.0f, FColor::Blue, Message, true, FVector2D(2, 2));
-			speed = 1000;
 			SetActorLocation(startLocation);
-			SetRandomDirection(movementDirection);
-			movementDirection.Normalize();
+			cpp_RestartGame();
 			return;
 		}
 
+		//advanced collision when platform is hitting
+		if (OtherActor->ActorHasTag("BluePlayerPlatform") || OtherActor->ActorHasTag("RedPlayerPlatform"))
+		{
+			if (PlatformWasHitInFront(OtherActor, SweepResult.ImpactNormal))
+			{
+				GEngine->AddOnScreenDebugMessage(-1, 1.5f, FColor::Blue, OtherComp->GetName() + " hit in front");
+				FVector adjustmentVector = SweepResult.Location - OtherActor->GetTransform().GetLocation();
+				adjustmentVector.Z = 0;
+				adjustmentVector.Normalize();
+				//FVector reflectionVector = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);	
+				movementDirection = OtherActor->GetActorForwardVector() + adjustmentVector;
+				movementDirection.Normalize();
+				return;
+			}
+				
+		}
+		/*else if (OtherActor->ActorHasTag("RedPlayerPlatform"))
+		{
+			if (PlatformWasHitInFront(OtherActor, SweepResult.ImpactNormal))
+			{
+				GEngine->AddOnScreenDebugMessage(-1, 1.5f, FColor::Red, OtherComp->GetName() + " hit in front");
+				FVector adjustmentVector = SweepResult.Location - OtherActor->GetTransform().GetLocation();
+				FVector reflectionVector = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);
+				movementDirection = reflectionVector + adjustmentVector;
+				movementDirection.Normalize();
+				return;
+			}
+		}*/
+
 		//default
+		//NOTE FOR FUTURE
+		//i think it still might go out of bounds in the corner (if two overlaps happen, second one will be ignored
+		//and this way object will go out of bounds, but this is fixable by taking dot product of the two reflection vectors,
+		//if dot product is positive it means they point in general direction which means ball wont go out of bounds if we allow
+		//both collisions to happen, but if its negative - omit second collision
 		if (!isOverlapping)
 		{
 			isOverlapping = true;
-			//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Magenta, "ball hit " + OtherComp->GetName());
 			movementDirection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal); //to get Fhitresult make sure ur colliding with boxcollider and not mesh
-		} //saving from bugs
+
+		}
 		else if (isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") || !OtherActor->ActorHasTag("RedPlayerPlatform")))
 		{
-			storedDirection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);
+			//ignore this tick because it already bounced back and double collision will mean it will bounce outside
 		}
+		
+		////default
+		//if (!isOverlapping)
+		//{
+		//	isOverlapping = true;
+		//	//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Magenta, "ball hit " + OtherComp->GetName());
+		//} //saving from bugs
+		//else if (isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") || !OtherActor->ActorHasTag("RedPlayerPlatform")))
+		//{
+		//	storedDirection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);
+		//}
 		
 	}
 
@@ -205,23 +240,48 @@ void ABall::OnOverlapEnd(UPrimitiveComponent* OverlappedComponent, AActor* Other
 			return;
 		}
 
-		if (HasAuthority() && isOverlapping)
+
+
+		if (isOverlapping)
 		{
-			//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Cyan, "ball left " + OtherComp->GetName());
 			isOverlapping = false;
 		}
-		else if (HasAuthority() && !isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") || !OtherActor->ActorHasTag("RedPlayerPlatform")))
+		else if (!isOverlapping)
 		{
-			movementDirection = storedDirection;
+			//its always overlapping when ending overlap
 		}
+
+		//if (HasAuthority() && isOverlapping)
+		//{
+		//	//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Cyan, "ball left " + OtherComp->GetName());
+		//	isOverlapping = false;
+		//}
+		//else if (HasAuthority() && !isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") || !OtherActor->ActorHasTag("RedPlayerPlatform")))
+		//{
+		//	movementDirection = storedDirection;
+		//}
 	}
 	
 }
 
+bool ABall::PlatformWasHitInFront(AActor* OtherActor, const FVector& hitResultsNormalVector)
+{
+	FVector platformsForwardVector = OtherActor->GetActorForwardVector();
+	if (FVector::DotProduct(platformsForwardVector, hitResultsNormalVector) > 0 )
+		return true;
+	else
+		return false;
+}
+
 void ABall::SetRandomDirection(FVector& movementDirectionVector)
 {
-	movementDirectionVector.X = (double)(rand() % 201) / 100 - 1; //get random value [-1,1]
-	movementDirectionVector.Y = (double)(rand() % 201) / 100 - 1;
+	do
+	{
+		movementDirectionVector.X = (double)(rand() % 201) / 100 - 1; //get random value [-1,1]
+		movementDirectionVector.Y = (double)(rand() % 201) / 100 - 1;
+	} 
+	while ((movementDirectionVector.Y > 0.8 || movementDirectionVector.Y < -0.8) || (movementDirectionVector.X > -0.2 && movementDirectionVector.X < 0.2));
+	
 	movementDirectionVector.Z = 0;
 }
 
@@ -254,12 +314,12 @@ void ABall::CheckForGameOver()
 {
 	if (((APlayer_Platform*)host_platform)->points == 5)
 	{
-		GEngine->AddOnScreenDebugMessage(-1, 1000000, FColor::Blue, "GAME OVER - BLUE WINS", true, FVector2D(3, 3));
+		//GEngine->AddOnScreenDebugMessage(-1, 1000000, FColor::Blue, "GAME OVER - BLUE WINS", true, FVector2D(3, 3));
 		ResetBall();
 	}
 	else if (((APlayer_Platform*)client_platform)->points == 5)
 	{
-		GEngine->AddOnScreenDebugMessage(-1, 1000000, FColor::Red, "GAME OVER - RED WINS", true, FVector2D(3, 3));
+		//GEngine->AddOnScreenDebugMessage(-1, 1000000, FColor::Red, "GAME OVER - RED WINS", true, FVector2D(3, 3));
 		ResetBall();
 	}
 }
@@ -268,6 +328,13 @@ void ABall::ResetBall()
 {
 	SetActorLocation(startLocation);
 	speed = 0;
-	((APlayer_Platform*)host_platform)->points = 0;
-	((APlayer_Platform*)client_platform)->points = 0;
+	//((APlayer_Platform*)host_platform)->points = 0;
+	//((APlayer_Platform*)client_platform)->points = 0;
+}
+
+void ABall::cpp_RestartGame()
+{
+	speed = 1000;
+	SetRandomDirection(movementDirection);
+	movementDirection.Normalize();
 }

@@ -16,22 +16,40 @@ struct FHitResult;
 #endif
 #define TESTTASK_FAROMSTUDIO_Player_Platform_generated_h
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_SPARSE_DATA
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_RPC_WRAPPERS \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_SPARSE_DATA
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_RPC_WRAPPERS \
+	virtual void cpp_Multicast_SetThisPlayerWantsToRematch_Implementation(bool playerWantsToRematch); \
+	virtual void cpp_Server_SetThisPlayerWantsToRematch_Implementation(bool playerWantsToRematch); \
  \
 	DECLARE_FUNCTION(execOnOverlapEnd); \
 	DECLARE_FUNCTION(execOnOverlapBegin); \
-	DECLARE_FUNCTION(execOnRep_HidePlatform);
+	DECLARE_FUNCTION(execOnRep_HidePlatform); \
+	DECLARE_FUNCTION(execcpp_Multicast_SetThisPlayerWantsToRematch); \
+	DECLARE_FUNCTION(execcpp_Server_SetThisPlayerWantsToRematch);
 
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnOverlapEnd); \
 	DECLARE_FUNCTION(execOnOverlapBegin); \
-	DECLARE_FUNCTION(execOnRep_HidePlatform);
+	DECLARE_FUNCTION(execOnRep_HidePlatform); \
+	DECLARE_FUNCTION(execcpp_Multicast_SetThisPlayerWantsToRematch); \
+	DECLARE_FUNCTION(execcpp_Server_SetThisPlayerWantsToRematch);
 
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_INCLASS_NO_PURE_DECLS \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_EVENT_PARMS \
+	struct Player_Platform_eventcpp_Multicast_SetThisPlayerWantsToRematch_Parms \
+	{ \
+		bool playerWantsToRematch; \
+	}; \
+	struct Player_Platform_eventcpp_Server_SetThisPlayerWantsToRematch_Parms \
+	{ \
+		bool playerWantsToRematch; \
+	};
+
+
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_CALLBACK_WRAPPERS
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPlayer_Platform(); \
 	friend struct Z_Construct_UClass_APlayer_Platform_Statics; \
@@ -41,12 +59,15 @@ public: \
 	enum class ENetFields_Private : uint16 \
 	{ \
 		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
-		platformHidden=NETFIELD_REP_START, \
+		points=NETFIELD_REP_START, \
+		bothPlayersWantToRematch, \
+		thisPlayerWantsToRematch, \
+		platformHidden, \
 		NETFIELD_REP_END=platformHidden	}; \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_INCLASS \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAPlayer_Platform(); \
 	friend struct Z_Construct_UClass_APlayer_Platform_Statics; \
@@ -56,12 +77,15 @@ public: \
 	enum class ENetFields_Private : uint16 \
 	{ \
 		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
-		platformHidden=NETFIELD_REP_START, \
+		points=NETFIELD_REP_START, \
+		bothPlayersWantToRematch, \
+		thisPlayerWantsToRematch, \
+		platformHidden, \
 		NETFIELD_REP_END=platformHidden	}; \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_STANDARD_CONSTRUCTORS \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API APlayer_Platform(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(APlayer_Platform) \
@@ -74,7 +98,7 @@ private: \
 public:
 
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_ENHANCED_CONSTRUCTORS \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API APlayer_Platform(APlayer_Platform&&); \
@@ -85,34 +109,39 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APlayer_Platform)
 
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_PRIVATE_PROPERTY_OFFSET \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__playerPlatformMesh() { return STRUCT_OFFSET(APlayer_Platform, playerPlatformMesh); } \
 	FORCEINLINE static uint32 __PPO__boxCollider() { return STRUCT_OFFSET(APlayer_Platform, boxCollider); } \
 	FORCEINLINE static uint32 __PPO__camera() { return STRUCT_OFFSET(APlayer_Platform, camera); } \
 	FORCEINLINE static uint32 __PPO__platformHidden() { return STRUCT_OFFSET(APlayer_Platform, platformHidden); }
 
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_12_PROLOG
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_GENERATED_BODY_LEGACY \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_12_PROLOG \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_EVENT_PARMS
+
+
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_PRIVATE_PROPERTY_OFFSET \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_SPARSE_DATA \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_RPC_WRAPPERS \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_INCLASS \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_STANDARD_CONSTRUCTORS \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_PRIVATE_PROPERTY_OFFSET \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_SPARSE_DATA \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_RPC_WRAPPERS \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_CALLBACK_WRAPPERS \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_INCLASS \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_GENERATED_BODY \
+#define Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_PRIVATE_PROPERTY_OFFSET \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_SPARSE_DATA \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_INCLASS_NO_PURE_DECLS \
-	Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h_15_ENHANCED_CONSTRUCTORS \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_PRIVATE_PROPERTY_OFFSET \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_SPARSE_DATA \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_CALLBACK_WRAPPERS \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_INCLASS_NO_PURE_DECLS \
+	Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -120,7 +149,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> TESTTASK_FAROMSTUDIO_API UClass* StaticClass<class APlayer_Platform>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Stetskyi_FaromStudioTest_Github_Source_TestTask_FaromStudio_Player_Platform_h
+#define CURRENT_FILE_ID Pong_MP_Source_TestTask_FaromStudio_Player_Platform_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

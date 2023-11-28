@@ -85,11 +85,18 @@ private:
 
 	float updFREQ;
 
+	bool PlatformWasHitInFront(AActor* OtherActor, const FVector& hitResultsNormalVector);
+
 	//scoring
 	FVector startLocation;
 	AActor* host_platform;
 	AActor* client_platform;
 	void FindPlatforms();
 	void CheckForGameOver();
+
+	
 	void ResetBall();
+
+	UFUNCTION(BlueprintCallable)
+	void cpp_RestartGame();
 };

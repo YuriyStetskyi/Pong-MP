@@ -1,3 +1,0 @@
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4\Shipping\TestTask_FaromStudio\Definitions.TestTask_FaromStudio.h
-D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

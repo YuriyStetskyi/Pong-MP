@@ -6,6 +6,8 @@
 #include "GameFramework/GameModeBase.h"
 #include "MyPlayerController.h"
 #include "Player_Platform.h"
+#include "MyGameStateBase.h"
+#include "MyPlayerState.h"
 #include "MyGameModeBase.generated.h"
 
 /**
@@ -26,8 +28,15 @@ public:
 	void PostLogin(APlayerController* NewPlayer);
 	bool allPlayersAreLoggedIn; 
 
+	//checking if players want to rematch
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	bool hostWantsToRematch;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	bool clientWantsToRematch;
 
 private:
+
+	void CheckIfPlayersWantToRematch();
 
 	//players
 	AMyPlayerController* P1_controller;

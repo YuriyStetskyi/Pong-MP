@@ -1,7 +1,7 @@
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Definitions.TestTask_FaromStudio.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Source\TestTask_FaromStudio\TestTask_FaromStudioGameModeBase.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Development\TestTask_FaromStudio\Definitions.TestTask_FaromStudio.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio\TestTask_FaromStudioGameModeBase.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 D:\Programming\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Programming\Unreal Engine 4\UE_4.27 Projects\Stetskyi_FaromStudioTest_Github\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\TestTask_FaromStudioGameModeBase.generated.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\Inc\TestTask_FaromStudio\TestTask_FaromStudioGameModeBase.generated.h

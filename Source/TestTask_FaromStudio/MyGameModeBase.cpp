@@ -5,9 +5,15 @@
 
 AMyGameModeBase::AMyGameModeBase()
 	:playersCount(0),
-	allPlayersAreLoggedIn(false)
+	allPlayersAreLoggedIn(false),
+	hostWantsToRematch(false),
+	clientWantsToRematch(false)
 {
+	PrimaryActorTick.bCanEverTick = true;
+
 	PlayerControllerClass = AMyPlayerController::StaticClass();
+	GameStateClass = AMyGameStateBase::StaticClass();
+	PlayerStateClass = AMyPlayerState::StaticClass();
 	srand(time(NULL));	
 	
 }
@@ -15,6 +21,7 @@ AMyGameModeBase::AMyGameModeBase()
 void AMyGameModeBase::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	CheckIfPlayersWantToRematch();
 }
 
 void AMyGameModeBase::PostLogin(APlayerController* NewPlayer)
@@ -35,6 +42,8 @@ void AMyGameModeBase::PostLogin(APlayerController* NewPlayer)
 		P1_controller->bShowMouseCursor = false;
 
 		P1_controller->Possess((APawn*)P1_platform);
+
+		P1_controller->Tags.Add("hostController");
 	}
 	else if (playersCount == 2)
 	{
@@ -49,10 +58,37 @@ void AMyGameModeBase::PostLogin(APlayerController* NewPlayer)
 		allPlayersAreLoggedIn = true;
 		P1_controller->allPlayersLoggedIn = true;
 		P2_controller->allPlayersLoggedIn = true;
+
+		P2_controller->Tags.Add("clientController");
 	}
 	else if(playersCount > 2)
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, "more than 2 players are trying to login ");
+	}
+}
+
+void AMyGameModeBase::CheckIfPlayersWantToRematch()
+{
+	if (P1_platform != nullptr)
+	{
+		hostWantsToRematch = ((APlayer_Platform*)P1_platform)->thisPlayerWantsToRematch;
+	}
+	
+	if (P2_platform != nullptr)
+	{
+		clientWantsToRematch = ((APlayer_Platform*)P2_platform)->thisPlayerWantsToRematch;
+	}
+
+	if (hostWantsToRematch && clientWantsToRematch)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, "both players want to rematch ");
+		((APlayer_Platform*)P1_platform)->bothPlayersWantToRematch = true;
+		((APlayer_Platform*)P2_platform)->bothPlayersWantToRematch = true;
+	}
+	else if (!hostWantsToRematch && !clientWantsToRematch)
+	{
+		/*((APlayer_Platform*)P1_platform)->bothPlayersWantToRematch = false;
+		((APlayer_Platform*)P2_platform)->bothPlayersWantToRematch = false;*/
 	}
 }
 

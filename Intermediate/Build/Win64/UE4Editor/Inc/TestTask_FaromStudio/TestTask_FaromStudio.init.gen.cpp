@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeTestTask_FaromStudio_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xA3C1FF15,
-				0x59EF8BCE,
+				0x2CD701D9,
+				0xF5C0BAB2,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

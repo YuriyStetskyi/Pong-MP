@@ -1,7 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "MyPlayerController.h"
+#include "MyPlayerState.h"
+#include "Net/UnrealNetwork.h"
 
 AMyPlayerController::AMyPlayerController()
 	:movementInput(0),
@@ -11,6 +12,8 @@ AMyPlayerController::AMyPlayerController()
 	allPlayersLoggedIn(false),
 	points(0)
 {
+	SetReplicates(true);
+
 }
 
 void AMyPlayerController::Tick(float deltaTime)
@@ -31,6 +34,7 @@ void AMyPlayerController::Tick(float deltaTime)
 	}
 	
 }
+
 
 void AMyPlayerController::SetupInputComponent()
 {
@@ -74,6 +78,66 @@ void AMyPlayerController::MoveOnInput(AActor* pawn, float mInput, float deltaTim
 		pawn->SetActorLocation(newLocation, true);
 	
 	}
+}
+
+void AMyPlayerController::cpp_SetWantsToRematch(bool wantsRematch)
+{
+	/*if (HasAuthority())
+	{
+		Multicast_SetWantsToRematch(wantsRematch);
+	}
+	else
+	{
+		wantsToRematch = wantsRematch;
+		Server_SetWantsToRematch(wantsRematch);
+	}*/
+
+	((AMyPlayerState*)this->PlayerState)->thisPlayerWantsToRematch = true;
+}
+
+void AMyPlayerController::Multicast_SetWantsToRematch_Implementation(bool wantsRematch)
+{
+	wantsToRematch = wantsRematch;
+}
+
+void AMyPlayerController::Server_SetWantsToRematch_Implementation(bool wantsRematch)
+{
+	wantsToRematch = wantsRematch;
+}
+
+
+//void AMyPlayerController::SetHostWantsToRematch(bool hostWantsRematch)
+//{
+//	if (HasAuthority())
+//	{
+//		MultiCast_SetHostWantsToRematch(hostWantsRematch);
+//	}
+//}
+//
+//void AMyPlayerController::SetClientWantsToRematch(bool clientWantsRematch)
+//{
+//	if (!HasAuthority())
+//	{
+//		clientWantsToRematch = clientWantsRematch;
+//		Server_SetClientWantsToRematch(clientWantsRematch);
+//	}
+//}
+//
+//void AMyPlayerController::MultiCast_SetHostWantsToRematch_Implementation(bool hostWantsRematch)
+//{
+//	hostWantsToRematch = hostWantsRematch;
+//}
+//
+//void AMyPlayerController::Server_SetClientWantsToRematch_Implementation(bool clientWantsRematch)
+//{
+//	clientWantsToRematch = clientWantsRematch;
+//}
+
+void AMyPlayerController::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
+{
+	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
+	/*DOREPLIFETIME(AMyPlayerController, hostWantsToRematch);
+	DOREPLIFETIME(AMyPlayerController, clientWantsToRematch);*/
 }
 
 void AMyPlayerController::RightLeftMove(float value)

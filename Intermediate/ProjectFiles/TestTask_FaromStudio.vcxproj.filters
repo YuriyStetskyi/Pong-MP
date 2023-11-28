@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestTask_FaromStudio.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{1221389A-1765-4E79-A766-3CA37843B981}</UniqueIdentifier>
+      <UniqueIdentifier>{CD00AED8-F073-4F9E-AC25-0C7A846EB48B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestTask_FaromStudio.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,13 @@
     <None Include="..\..\Source\TestTask_FaromStudioEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\LICENSE" />
+    <None Include="..\..\README.md" />
+    <None Include="..\..\testing if its the right folder.txt" />
+    <None Include="..\..\TestTask_FaromStudio.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{C32478F6-8E80-4C0F-92B5-F79B2E02D188}</UniqueIdentifier>
+      <UniqueIdentifier>{3D2625FB-949B-4BAE-9DF6-1050202E2273}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +32,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TestTask_FaromStudio">
-      <UniqueIdentifier>{88D0C89C-0C40-48D9-9900-FE9AF867CA98}</UniqueIdentifier>
+      <UniqueIdentifier>{B255759E-A198-404D-AACD-DA04E81001F9}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TestTask_FaromStudio\Ball.cpp">
       <Filter>Source\TestTask_FaromStudio</Filter>
@@ -41,10 +46,22 @@
     <ClInclude Include="..\..\Source\TestTask_FaromStudio\MyGameModeBase.h">
       <Filter>Source\TestTask_FaromStudio</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\TestTask_FaromStudio\MyGameStateBase.cpp">
+      <Filter>Source\TestTask_FaromStudio</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTask_FaromStudio\MyGameStateBase.h">
+      <Filter>Source\TestTask_FaromStudio</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\TestTask_FaromStudio\MyPlayerController.cpp">
       <Filter>Source\TestTask_FaromStudio</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TestTask_FaromStudio\MyPlayerController.h">
+      <Filter>Source\TestTask_FaromStudio</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTask_FaromStudio\MyPlayerState.cpp">
+      <Filter>Source\TestTask_FaromStudio</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTask_FaromStudio\MyPlayerState.h">
       <Filter>Source\TestTask_FaromStudio</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\TestTask_FaromStudio\Player_Platform.cpp">
