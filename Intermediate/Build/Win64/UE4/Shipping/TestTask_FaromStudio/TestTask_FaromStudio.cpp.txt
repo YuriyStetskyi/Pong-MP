@@ -1,0 +1,2 @@
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4\Shipping\TestTask_FaromStudio\Definitions.TestTask_FaromStudio.h
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio\TestTask_FaromStudio.h

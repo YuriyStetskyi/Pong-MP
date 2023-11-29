@@ -1,200 +1,200 @@
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_InGameGameState.uasset" 0
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_InGameGameState.uexp" 1
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/RedLight.uasset" 2
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/RedLight.uexp" 3
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/PNGS/Pong_logo.uasset" 4
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/PNGS/Pong_logo.uexp" 5
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Basic_Wall.uasset" 6
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Basic_Wall.uexp" 7
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Pillar_50x500.uasset" 8
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Pillar_50x500.uexp" 9
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_400x300.uasset" 10
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_400x300.uexp" 11
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_400x400.uasset" 12
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_400x400.uexp" 13
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_500x500.uasset" 14
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_500x500.uexp" 15
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 16
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 17
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 18
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 19
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Collapse01.uasset" 20
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Collapse01.uexp" 21
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Collapse02.uasset" 22
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Collapse02.uexp" 23
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Explosion01.uasset" 24
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Explosion01.uexp" 25
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Explosion02.uasset" 26
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Explosion02.uexp" 27
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Fire01.uasset" 28
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Fire01.uexp" 29
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Fire_Sparks01.uasset" 30
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Fire_Sparks01.uexp" 31
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Light01.uasset" 32
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Light01.uexp" 33
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Light01_Cue.uasset" 34
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Light01_Cue.uexp" 35
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Light02.uasset" 36
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Light02.uexp" 37
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Light02_Cue.uasset" 38
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Light02_Cue.uexp" 39
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Smoke01.uasset" 40
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Smoke01.uexp" 41
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Birds01.uasset" 42
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Birds01.uexp" 43
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Music01.uasset" 44
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Music01.uexp" 45
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Wind05.uasset" 46
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Wind05.uexp" 47
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Wind06.uasset" 48
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Wind06.uexp" 49
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Steam01.uasset" 50
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Steam01.uexp" 51
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 52
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 53
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 54
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 55
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 56
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 57
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 58
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 59
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 60
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 61
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 62
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 63
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 64
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 65
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 66
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 67
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 68
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 69
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 70
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Burst_M.uasset" 71
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Burst_M.uexp" 72
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Burst_M.ubulk" 73
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Burst.uasset" 74
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Burst.uexp" 75
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Explosion.uasset" 76
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Explosion.uexp" 77
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Explosion_Cue.uasset" 78
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Explosion_Cue.uexp" 79
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 80
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 81
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_InGameGameState.uasset" 0
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_InGameGameState.uexp" 1
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/RedLight.uasset" 2
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/RedLight.uexp" 3
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/PNGS/Pong_logo.uasset" 4
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/PNGS/Pong_logo.uexp" 5
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Basic_Wall.uasset" 6
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Basic_Wall.uexp" 7
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Pillar_50x500.uasset" 8
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Pillar_50x500.uexp" 9
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_400x300.uasset" 10
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_400x300.uexp" 11
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_400x400.uasset" 12
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_400x400.uexp" 13
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_500x500.uasset" 14
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_500x500.uexp" 15
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 16
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 17
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 18
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 19
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Collapse01.uasset" 20
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Collapse01.uexp" 21
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Collapse02.uasset" 22
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Collapse02.uexp" 23
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Explosion01.uasset" 24
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Explosion01.uexp" 25
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Explosion02.uasset" 26
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Explosion02.uexp" 27
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Fire01.uasset" 28
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Fire01.uexp" 29
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Fire_Sparks01.uasset" 30
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Fire_Sparks01.uexp" 31
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Light01.uasset" 32
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Light01.uexp" 33
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Light01_Cue.uasset" 34
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Light01_Cue.uexp" 35
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Light02.uasset" 36
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Light02.uexp" 37
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Light02_Cue.uasset" 38
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Light02_Cue.uexp" 39
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Smoke01.uasset" 40
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Smoke01.uexp" 41
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Birds01.uasset" 42
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Birds01.uexp" 43
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Music01.uasset" 44
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Music01.uexp" 45
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Wind05.uasset" 46
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Wind05.uexp" 47
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Wind06.uasset" 48
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Wind06.uexp" 49
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Steam01.uasset" 50
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Steam01.uexp" 51
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Explosion_Cue.uasset" 52
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Explosion_Cue.uexp" 53
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 54
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 55
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 56
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 57
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 58
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 59
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 60
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 63
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 64
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 65
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 66
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 67
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 68
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 69
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 70
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 71
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 72
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Burst_M.uasset" 73
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Burst_M.uexp" 74
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Burst_M.ubulk" 75
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Burst.uasset" 76
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Burst.uexp" 77
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Explosion.uasset" 78
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Explosion.uexp" 79
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 80
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 81
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 82
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 83
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 84
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 85
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 86
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Bush_N.uasset" 87
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Bush_N.uexp" 88
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Bush_N.ubulk" 89
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Bush_D.uasset" 90
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Bush_D.uexp" 91
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Bush_D.ubulk" 92
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Bush.uasset" 93
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Bush.uexp" 94
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Bush.uasset" 95
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Bush.uexp" 96
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Chair_N.uasset" 97
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Chair_N.uexp" 98
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Chair_N.ubulk" 99
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Chair_M.uasset" 100
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Chair_M.uexp" 101
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Chair_M.ubulk" 102
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Chair.uasset" 103
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Chair.uexp" 104
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Couch.uasset" 105
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Couch.uexp" 106
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Door_N.uasset" 107
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Door_N.uexp" 108
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Door_N.ubulk" 109
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Door_M.uasset" 110
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Door_M.uexp" 111
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Door_M.ubulk" 112
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Door.uasset" 113
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Door.uexp" 114
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Glass.uasset" 115
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Glass.uexp" 116
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Door.uasset" 117
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Door.uexp" 118
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 119
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 120
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 121
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 122
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 123
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 124
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_RockMesh_N.uasset" 125
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_RockMesh_N.uexp" 126
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 127
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_RockMesh_M.uasset" 128
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_RockMesh_M.uexp" 129
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 130
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 131
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 132
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 133
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 85
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 86
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Bush_N.uasset" 87
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Bush_N.uexp" 88
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Bush_N.ubulk" 89
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Bush_D.uasset" 90
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Bush_D.uexp" 91
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Bush_D.ubulk" 92
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Bush.uasset" 93
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Bush.uexp" 94
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Bush.uasset" 95
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Bush.uexp" 96
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Chair_N.uasset" 97
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Chair_N.uexp" 98
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Chair_N.ubulk" 99
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Chair_M.uasset" 100
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Chair_M.uexp" 101
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Chair_M.ubulk" 102
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Chair.uasset" 103
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Chair.uexp" 104
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Couch.uasset" 105
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Couch.uexp" 106
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Door_N.uasset" 107
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Door_N.uexp" 108
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Door_N.ubulk" 109
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Door_M.uasset" 110
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Door_M.uexp" 111
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Door_M.ubulk" 112
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Door.uasset" 113
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Door.uexp" 114
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Glass.uasset" 115
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Glass.uexp" 116
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Door.uasset" 117
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Door.uexp" 118
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 119
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 120
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 121
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 122
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 123
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 124
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_RockMesh_N.uasset" 125
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_RockMesh_N.uexp" 126
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 127
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_RockMesh_M.uasset" 128
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_RockMesh_M.uexp" 129
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 130
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 131
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 132
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 133
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 134
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 135
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 136
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 137
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 138
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Rock.uasset" 139
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Rock.uexp" 140
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Rock.uasset" 141
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Rock.uexp" 142
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Shelf_N.uasset" 143
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Shelf_N.uexp" 144
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Shelf_N.ubulk" 145
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Shelf_M.uasset" 146
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Shelf_M.uexp" 147
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Shelf_M.ubulk" 148
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Shelf.uasset" 149
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Shelf.uexp" 150
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Shelf.uasset" 151
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Shelf.uexp" 152
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Basic_Floor.uasset" 153
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Basic_Floor.uexp" 154
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Stairs.uasset" 155
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Stairs.uexp" 156
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Cone.uasset" 157
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Cone.uexp" 158
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 159
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 160
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 161
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 162
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Pipe.uasset" 163
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Pipe.uexp" 164
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 165
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 166
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 167
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 168
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Plane.uasset" 169
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Plane.uexp" 170
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Torus.uasset" 171
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Torus.uexp" 172
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Trim.uasset" 173
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Trim.uexp" 174
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 175
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 176
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 177
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 178
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 179
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 180
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Tube.uasset" 181
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Tube.uexp" 182
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 183
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 184
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 185
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 186
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 187
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 188
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 189
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 190
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 191
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 192
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 193
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 194
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 195
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 196
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 136
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 137
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 138
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Rock.uasset" 139
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Rock.uexp" 140
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Rock.uasset" 141
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Rock.uexp" 142
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Shelf_N.uasset" 143
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Shelf_N.uexp" 144
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Shelf_N.ubulk" 145
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Shelf_M.uasset" 146
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Shelf_M.uexp" 147
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Shelf_M.ubulk" 148
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Shelf.uasset" 149
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Shelf.uexp" 150
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Shelf.uasset" 151
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Shelf.uexp" 152
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Basic_Floor.uasset" 153
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Basic_Floor.uexp" 154
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Stairs.uasset" 155
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Stairs.uexp" 156
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Cone.uasset" 157
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Cone.uexp" 158
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 159
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 160
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 161
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 162
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Pipe.uasset" 163
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Pipe.uexp" 164
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 165
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 166
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 167
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 168
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Plane.uasset" 169
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Plane.uexp" 170
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Torus.uasset" 171
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Torus.uexp" 172
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Trim.uasset" 173
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Trim.uexp" 174
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 175
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 176
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 177
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 178
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 179
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 180
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Tube.uasset" 181
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Tube.uexp" 182
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 183
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 184
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 185
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 186
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 187
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 189
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 190
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 191
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 192
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 193
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 194
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 195
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 196
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 197
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 198
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 199
@@ -517,29 +517,29 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 516
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 517
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 518
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 519
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 520
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 521
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 522
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 523
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 524
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 525
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 526
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 527
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 528
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 529
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 530
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 531
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 532
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 533
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 534
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 535
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 536
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 537
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 538
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 539
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 540
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 541
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 519
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 520
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 521
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 522
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 523
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 525
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 526
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 527
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 528
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 529
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 530
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 531
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 532
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 533
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 534
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 535
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 536
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 537
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 538
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 539
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 540
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 541
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 542
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 543
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 544
@@ -554,10 +554,10 @@
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 553
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 554
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 555
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 556
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 557
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 558
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 559
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 556
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 557
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 558
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 559
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 560
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 561
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 562
@@ -689,34 +689,34 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 688
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 689
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 690
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 691
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 692
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 693
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 694
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 695
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 696
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 697
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 698
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 699
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 700
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 701
-"../../../Engine/Content/BasicShapes/Plane.uasset" 702
-"../../../Engine/Content/BasicShapes/Plane.uexp" 703
-"../../../Engine/Content/BasicShapes/Cube.uasset" 704
-"../../../Engine/Content/BasicShapes/Cube.uexp" 705
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_MacroVariation.uasset" 706
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_MacroVariation.uexp" 707
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 708
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 709
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 691
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 692
+"../../../Engine/Content/BasicShapes/Plane.uasset" 693
+"../../../Engine/Content/BasicShapes/Plane.uexp" 694
+"../../../Engine/Content/BasicShapes/Cube.uasset" 695
+"../../../Engine/Content/BasicShapes/Cube.uexp" 696
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_MacroVariation.uasset" 697
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_MacroVariation.uexp" 698
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 699
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 700
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 701
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 702
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 703
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 704
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 705
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 706
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 707
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 708
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 709
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 710
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 711
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 712
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 713
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Map_BuiltData.uasset" 714
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Map_BuiltData.uexp" 715
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Map_BuiltData.ubulk" 716
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Floor_400x400.uasset" 717
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Floor_400x400.uexp" 718
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Map_BuiltData.uasset" 714
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Map_BuiltData.uexp" 715
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Map_BuiltData.ubulk" 716
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 717
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 718
 "../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 719
 "../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 720
 "../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 721
@@ -725,556 +725,556 @@
 "../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 724
 "../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 725
 "../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 726
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 727
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 728
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 729
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 730
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/Yellow.uasset" 731
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/Yellow.uexp" 732
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/WallsMaterial_2.uasset" 733
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/WallsMaterial_2.uexp" 734
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/WallsMaterial.uasset" 735
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/WallsMaterial.uexp" 736
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/Red.uasset" 737
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/Red.uexp" 738
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/LightRed.uasset" 739
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/LightRed.uexp" 740
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/LightBlue.uasset" 741
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/LightBlue.uexp" 742
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/Blue.uasset" 743
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Materials/Blue.uexp" 744
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Widgets/ServerRow_WB.uasset" 745
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Widgets/ServerRow_WB.uexp" 746
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 747
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 748
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 749
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 750
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 751
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 752
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 753
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 754
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 755
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 756
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 757
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 758
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 759
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 760
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 761
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 762
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 763
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 764
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 765
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 766
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Widgets/Main_Menu_WB.uasset" 767
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Widgets/Main_Menu_WB.uexp" 768
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Widgets/InGame_UI_WB.uasset" 769
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Widgets/InGame_UI_WB.uexp" 770
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Widgets/GameEnded_WB.uasset" 771
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Widgets/GameEnded_WB.uexp" 772
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/SavedData/S_PlayerProfile.uasset" 773
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/SavedData/S_PlayerProfile.uexp" 774
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/SavedData/SG_PlayerProfile.uasset" 775
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/SavedData/SG_PlayerProfile.uexp" 776
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_Pong_GameInstance.uasset" 777
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_Pong_GameInstance.uexp" 778
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Map.uexp" 779
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Map.umap" 780
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Menu_BuiltData.uasset" 781
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Menu_BuiltData.uexp" 782
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_Menu_Controller.uasset" 783
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_Menu_Controller.uexp" 784
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_Menu_Pawn.uasset" 785
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_Menu_Pawn.uexp" 786
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_Menu_GameModeBase.uasset" 787
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/Framework/BP_Menu_GameModeBase.uexp" 788
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Menu.uexp" 789
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/MyMaps/Main_Menu.umap" 790
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 791
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 792
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 793
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 794
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 795
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 796
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 797
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 798
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 799
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 800
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 801
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 802
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 803
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 804
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 805
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 806
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 807
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 808
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 809
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 810
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 811
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 812
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 813
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 814
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_AssetPlatform.uasset" 815
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_AssetPlatform.uexp" 816
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 817
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 818
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 819
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 820
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 821
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 822
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 823
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 824
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 825
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 826
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 827
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 828
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 829
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 830
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 831
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 832
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 833
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 834
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 835
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 836
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Advanced_Lighting.uexp" 837
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Advanced_Lighting.umap" 838
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 839
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 840
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_TableRound_N.uasset" 841
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_TableRound_N.uexp" 842
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_TableRound_N.ubulk" 843
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_TableRound_M.uasset" 844
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_TableRound_M.uexp" 845
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_TableRound_M.ubulk" 846
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_TableRound.uasset" 847
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_TableRound.uexp" 848
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_TableRound.uasset" 849
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_TableRound.uexp" 850
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Statue_N.uasset" 851
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Statue_N.uexp" 852
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Statue_N.ubulk" 853
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Statue_M.uasset" 854
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Statue_M.uexp" 855
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Statue_M.ubulk" 856
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Statue.uasset" 857
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Statue.uexp" 858
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 859
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 860
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Statue.uasset" 861
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Statue.uexp" 862
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Chair.uasset" 863
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Chair.uexp" 864
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 865
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 866
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 867
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 868
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 869
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 870
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Copper.uasset" 871
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Copper.uexp" 872
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 873
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 874
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 875
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 876
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 877
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 878
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 879
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 880
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Minimal_Default.uexp" 881
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/Minimal_Default.umap" 882
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Lamp_N.uasset" 883
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Lamp_N.uexp" 884
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Lamp_N.ubulk" 885
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Lamp_M.uasset" 886
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Lamp_M.uexp" 887
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Lamp_M.ubulk" 888
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Lamp.uasset" 889
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Lamp.uexp" 890
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 891
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 892
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 893
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 894
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Steam_Lit.uasset" 895
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Steam_Lit.uexp" 896
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Steam01_Cue.uasset" 897
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Steam01_Cue.uexp" 898
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 899
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 900
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Spark_Core.uasset" 901
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Spark_Core.uexp" 902
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Spark_Core.ubulk" 903
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Spark.uasset" 904
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Spark.uexp" 905
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 906
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 907
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Sparks.uasset" 908
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Sparks.uexp" 909
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 910
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 911
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 912
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 913
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Smoke.uasset" 914
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Smoke.uexp" 915
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Smoke01_Cue.uasset" 916
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Smoke01_Cue.uexp" 917
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 918
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 919
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Water_N.uasset" 920
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Water_N.uexp" 921
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Water_N.ubulk" 922
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 923
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 924
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 925
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 926
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 927
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 928
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 929
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 930
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 931
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 932
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Fire.uasset" 933
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Fire.uexp" 934
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Fire01_Cue.uasset" 935
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Fire01_Cue.uexp" 936
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 937
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 938
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 939
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 940
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 941
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 942
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 943
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 944
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Collapse_Cue.uasset" 945
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Audio/Collapse_Cue.uexp" 946
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 947
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 948
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 949
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 950
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_400x200.uasset" 951
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Architecture/Wall_400x200.uexp" 952
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Sphere.uasset" 953
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Sphere.uexp" 954
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 955
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 956
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Cube.uasset" 957
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Shapes/Shape_Cube.uexp" 958
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Frame_N.uasset" 959
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Frame_N.uexp" 960
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Frame_N.ubulk" 961
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Frame_M.uasset" 962
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Frame_M.uexp" 963
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Frame_M.ubulk" 964
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Frame.uasset" 965
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/Materials/M_Frame.uexp" 966
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_WindowFrame.uasset" 967
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_WindowFrame.uexp" 968
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_PillarFrame300.uasset" 969
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_PillarFrame300.uexp" 970
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_PillarFrame.uasset" 971
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_PillarFrame.uexp" 972
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_GlassWindow.uasset" 973
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_GlassWindow.uexp" 974
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_DoorFrame.uasset" 975
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_DoorFrame.uexp" 976
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_CornerFrame.uasset" 977
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/SM_CornerFrame.uexp" 978
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/MaterialSphere.uasset" 979
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Props/MaterialSphere.uexp" 980
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 981
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 982
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 983
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 984
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 985
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 986
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 987
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 988
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 989
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 990
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 991
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 992
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 993
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 994
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 995
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 996
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 997
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 998
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 999
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1000
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1001
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1002
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 1003
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 1004
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1005
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1006
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1007
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1008
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1009
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1010
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1011
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1012
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1013
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1014
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1015
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1016
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1017
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1018
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1019
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1020
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1021
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1022
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1023
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1024
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1025
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1026
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1027
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1028
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1029
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Water_M.uasset" 1030
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Water_M.uexp" 1031
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Water_M.ubulk" 1032
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1033
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1034
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Water_Lake.uasset" 1035
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Water_Lake.uexp" 1036
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1037
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 1038
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1039
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1040
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 1041
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 1042
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1043
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1044
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1045
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1046
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Tech_Panel.uexp" 1047
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1048
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1049
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1050
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1051
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1052
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1053
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1054
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1055
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1056
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1057
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1058
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1059
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1060
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1061
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 1062
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1063
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1064
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 1065
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 1066
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1067
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 1068
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1069
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1070
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1071
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1072
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1073
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1074
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1075
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1076
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1077
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1078
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1079
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1080
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1081
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1082
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1083
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1084
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1085
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1086
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1087
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1088
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1089
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1090
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1091
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1092
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1093
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1094
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1095
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1096
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1097
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1098
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1099
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1100
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1101
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1102
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1103
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1104
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1105
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1106
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1107
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1108
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1109
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1110
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1111
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1112
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1113
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1114
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1115
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1116
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1117
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1118
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1119
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1120
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1121
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1122
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1123
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1124
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1125
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1126
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1127
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1128
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1129
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1130
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1131
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1132
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1133
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1134
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1135
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1136
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1137
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1138
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1139
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1140
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1141
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1142
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1143
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1144
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1145
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1146
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1147
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1148
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1149
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1150
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1151
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1152
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1153
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1154
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1155
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1156
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1157
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1158
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1159
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1160
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1161
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1162
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1163
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1164
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1165
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1166
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1167
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1168
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1169
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1170
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1171
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1172
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1173
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1174
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1175
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1176
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1177
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1178
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1179
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1180
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1181
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1182
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1183
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1184
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1185
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1186
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1187
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1188
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1189
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1190
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1191
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1192
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1193
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1194
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1195
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1196
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1197
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1198
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1199
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1200
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1201
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1202
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1203
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1204
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1205
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1206
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1207
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1208
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1209
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1210
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1211
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1212
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1213
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1214
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1215
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1216
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1217
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1218
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1219
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1220
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1221
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1222
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1223
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1224
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1225
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1226
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1227
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1228
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1229
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1230
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1231
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1232
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1233
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1234
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1235
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1236
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1237
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1238
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1239
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1240
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1241
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1242
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1243
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1244
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1245
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1246
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1247
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1248
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1249
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1250
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1251
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1252
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1253
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1254
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1255
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1256
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1257
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1258
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1259
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1260
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1261
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1262
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1263
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1264
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1265
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1266
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1267
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1268
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1269
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1270
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1271
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1272
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1273
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1274
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/StarterMap.uexp" 1275
-"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Stetskyi_FaromStudioTest/Content/StarterContent/Maps/StarterMap.umap" 1276
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 727
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 728
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/Yellow.uasset" 729
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/Yellow.uexp" 730
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/WallsMaterial_2.uasset" 731
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/WallsMaterial_2.uexp" 732
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/WallsMaterial.uasset" 733
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/WallsMaterial.uexp" 734
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/Red.uasset" 735
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/Red.uexp" 736
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/LightRed.uasset" 737
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/LightRed.uexp" 738
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/LightBlue.uasset" 739
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/LightBlue.uexp" 740
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/Blue.uasset" 741
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Materials/Blue.uexp" 742
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Widgets/ServerRow_WB.uasset" 743
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Widgets/ServerRow_WB.uexp" 744
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 745
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 746
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 747
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 748
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 749
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 750
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 751
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 752
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 753
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 754
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 755
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 756
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 757
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 758
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 759
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 760
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 761
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 762
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 763
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 764
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Widgets/Main_Menu_WB.uasset" 765
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Widgets/Main_Menu_WB.uexp" 766
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Widgets/InGame_UI_WB.uasset" 767
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Widgets/InGame_UI_WB.uexp" 768
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Widgets/GameEnded_WB.uasset" 769
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Widgets/GameEnded_WB.uexp" 770
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/SavedData/S_PlayerProfile.uasset" 771
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/SavedData/S_PlayerProfile.uexp" 772
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/SavedData/SG_PlayerProfile.uasset" 773
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/SavedData/SG_PlayerProfile.uexp" 774
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_Pong_GameInstance.uasset" 775
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_Pong_GameInstance.uexp" 776
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Floor_400x400.uasset" 777
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Floor_400x400.uexp" 778
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Map.uexp" 779
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Map.umap" 780
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_Menu_Controller.uasset" 781
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_Menu_Controller.uexp" 782
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_Menu_Pawn.uasset" 783
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_Menu_Pawn.uexp" 784
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_Menu_GameModeBase.uasset" 785
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/Framework/BP_Menu_GameModeBase.uexp" 786
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Menu_BuiltData.uasset" 787
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Menu_BuiltData.uexp" 788
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Menu.uexp" 789
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/MyMaps/Main_Menu.umap" 790
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_AssetPlatform.uasset" 791
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_AssetPlatform.uexp" 792
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 793
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 794
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 795
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 796
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 797
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 798
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 799
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 800
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 801
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 802
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 803
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 804
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 805
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 806
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 807
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 808
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 809
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 810
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 811
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 812
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 813
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 814
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 815
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 816
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 817
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 818
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 819
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 820
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 821
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 822
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 823
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 824
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 825
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 826
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 827
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 828
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 829
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 830
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 831
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 832
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 833
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 834
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 835
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 836
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Advanced_Lighting.uexp" 837
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Advanced_Lighting.umap" 838
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 839
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 840
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 841
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 842
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 843
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 844
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 845
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 846
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 847
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 848
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 849
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 850
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 851
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 852
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 853
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 854
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Copper.uasset" 855
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Copper.uexp" 856
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Statue_N.uasset" 857
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Statue_N.uexp" 858
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Statue_N.ubulk" 859
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Statue_M.uasset" 860
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Statue_M.uexp" 861
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Statue_M.ubulk" 862
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 863
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 864
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Chair.uasset" 865
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Chair.uexp" 866
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Statue.uasset" 867
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Statue.uexp" 868
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Statue.uasset" 869
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Statue.uexp" 870
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_TableRound_N.uasset" 871
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_TableRound_N.uexp" 872
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_TableRound_N.ubulk" 873
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_TableRound_M.uasset" 874
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_TableRound_M.uexp" 875
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_TableRound_M.ubulk" 876
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_TableRound.uasset" 877
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_TableRound.uexp" 878
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_TableRound.uasset" 879
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_TableRound.uexp" 880
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Minimal_Default.uexp" 881
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/Minimal_Default.umap" 882
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 883
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 884
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_400x200.uasset" 885
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_400x200.uexp" 886
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 887
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 888
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 889
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 890
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Collapse_Cue.uasset" 891
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Collapse_Cue.uexp" 892
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Fire01_Cue.uasset" 893
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Fire01_Cue.uexp" 894
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 895
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 896
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Water_N.uasset" 897
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Water_N.uexp" 898
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Water_N.ubulk" 899
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 900
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 901
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 902
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 903
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 904
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 905
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 906
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 907
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 908
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 909
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Fire.uasset" 910
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Fire.uexp" 911
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 912
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 913
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Smoke01_Cue.uasset" 914
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Smoke01_Cue.uexp" 915
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Smoke.uasset" 916
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Smoke.uexp" 917
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 918
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 919
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 920
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 921
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Spark_Core.uasset" 922
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Spark_Core.uexp" 923
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Spark_Core.ubulk" 924
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Spark.uasset" 925
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Spark.uexp" 926
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Sparks.uasset" 927
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Sparks.uexp" 928
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 929
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 930
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Steam_Lit.uasset" 931
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Steam_Lit.uexp" 932
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Steam01_Cue.uasset" 933
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Audio/Steam01_Cue.uexp" 934
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 935
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 936
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Lamp_N.uasset" 937
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Lamp_N.uexp" 938
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Lamp_N.ubulk" 939
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Lamp_M.uasset" 940
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Lamp_M.uexp" 941
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Lamp_M.ubulk" 942
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Lamp.uasset" 943
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Lamp.uexp" 944
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 945
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 946
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 947
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 948
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 949
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 950
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 951
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 952
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 953
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 954
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 955
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 956
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 957
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 958
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 959
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 960
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 961
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 962
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 963
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 964
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 965
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 966
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 967
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 968
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 969
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 970
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 971
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 972
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 973
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 974
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 975
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 976
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 977
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 978
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 979
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 980
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 981
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 982
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 983
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 984
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 985
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 986
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 987
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 988
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 989
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 990
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 991
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 992
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 993
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 994
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 995
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 996
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 997
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 998
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 999
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1000
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1001
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1002
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1003
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1004
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1005
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1006
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1007
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1008
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1009
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1010
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1011
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1012
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1013
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1014
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1015
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1016
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1017
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1018
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1019
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1020
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1021
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1022
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1023
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1024
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1025
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1026
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1027
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1028
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1029
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1030
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1031
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1032
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1033
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1034
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1035
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1036
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1037
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1038
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1039
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1040
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1041
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1042
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1043
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1044
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1045
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1046
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1047
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1048
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1049
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1050
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1051
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1052
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1053
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1054
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1055
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1056
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1057
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1058
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1059
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1060
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1061
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1062
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1063
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1064
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1065
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1066
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1067
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1068
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1069
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1070
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1071
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1072
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1073
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1074
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1075
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1076
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1077
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1078
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1079
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1080
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1081
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1082
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1083
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1084
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1085
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1086
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1087
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1088
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1089
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1090
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1091
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1092
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1093
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1094
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1095
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1096
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1097
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1098
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1099
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1100
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1101
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1102
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1103
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1104
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1105
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1106
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1107
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1108
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1109
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1110
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1111
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1112
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1113
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1114
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1115
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1116
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1117
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1118
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1119
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1120
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1121
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1122
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1123
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 1124
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1125
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1126
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1127
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1128
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1129
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1130
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1131
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1132
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1133
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1134
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1135
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1136
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1137
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1138
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1139
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1140
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1141
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1142
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1143
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1144
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1145
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1146
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1147
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1148
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1149
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1150
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1151
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1152
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1153
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1154
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1155
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1156
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1157
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 1158
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1159
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1160
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 1161
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 1162
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1163
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 1164
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1165
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1166
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1167
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1168
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1169
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1170
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1171
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1172
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1173
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1174
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1175
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1176
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1177
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1178
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 1179
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1180
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1181
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 1182
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 1183
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1184
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Tech_Panel.uexp" 1185
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Water_Lake.uasset" 1186
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Water_Lake.uexp" 1187
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Water_M.uasset" 1188
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Water_M.uexp" 1189
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Water_M.ubulk" 1190
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1191
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1192
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1193
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1194
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1195
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1196
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1197
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1198
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1199
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1200
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1201
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1202
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1205
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1206
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1207
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1208
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1209
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1210
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1211
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1212
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1213
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1214
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1215
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1216
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 1217
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 1218
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1219
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1220
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1221
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1222
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1223
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1224
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 1225
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 1226
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1227
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 1228
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 1229
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1230
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 1231
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1232
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 1233
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 1234
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1235
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 1236
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1237
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 1238
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/MaterialSphere.uasset" 1239
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/MaterialSphere.uexp" 1240
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Frame_N.uasset" 1241
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Frame_N.uexp" 1242
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Frame_N.ubulk" 1243
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Frame_M.uasset" 1244
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Frame_M.uexp" 1245
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Frame_M.ubulk" 1246
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Frame.uasset" 1247
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/Materials/M_Frame.uexp" 1248
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_CornerFrame.uasset" 1249
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_CornerFrame.uexp" 1250
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_DoorFrame.uasset" 1251
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_DoorFrame.uexp" 1252
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_GlassWindow.uasset" 1253
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_GlassWindow.uexp" 1254
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_PillarFrame.uasset" 1255
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_PillarFrame.uexp" 1256
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1257
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_PillarFrame300.uexp" 1258
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_WindowFrame.uasset" 1259
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Props/SM_WindowFrame.uexp" 1260
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Cube.uasset" 1261
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Cube.uexp" 1262
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1263
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 1264
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1265
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Shapes/Shape_Sphere.uexp" 1266
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1267
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1268
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1269
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1270
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1271
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1272
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1273
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1274
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/StarterMap.uexp" 1275
+"D:/Programming/Unreal Engine 4/UE_4.27 Projects/Pong_MP/Content/StarterContent/Maps/StarterMap.umap" 1276
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1277
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1278
 "../../../Engine/Content/Maps/Entry.uexp" 1279

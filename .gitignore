@@ -1,5 +1,6 @@
 # Packaged game (has files bigger than 100 MB)
 PackagedGame/
+.vs/
 
 # one
 Binaries/Win64/TestTask_FaromStudio-Win64-Shipping.pdb
