@@ -87,6 +87,9 @@ private:
 
 	bool PlatformWasHitInFront(AActor* OtherActor, const FVector& hitResultsNormalVector);
 
+	FVector firstOverlapVector;
+	
+
 	//scoring
 	FVector startLocation;
 	AActor* host_platform;

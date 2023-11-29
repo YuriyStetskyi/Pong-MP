@@ -195,12 +195,19 @@ void ABall::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* Oth
 		if (!isOverlapping)
 		{
 			isOverlapping = true;
+			firstOverlapVector = movementDirection;
 			movementDirection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal); //to get Fhitresult make sure ur colliding with boxcollider and not mesh
 
 		}
 		else if (isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") || !OtherActor->ActorHasTag("RedPlayerPlatform")))
 		{
-			//ignore this tick because it already bounced back and double collision will mean it will bounce outside
+			FVector currentReflection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);
+			if (FVector::DotProduct(firstOverlapVector, currentReflection) <= 0)
+			{
+				movementDirection = currentReflection;
+			}
+			//if dot product of those two vectors are positive ignore this tick because it already 
+			//bounced back and double collision will mean it will bounce outside
 		}
 		
 		////default
