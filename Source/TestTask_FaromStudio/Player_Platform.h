@@ -80,12 +80,4 @@ private:
 	UFUNCTION()
 	void OnOverlapEnd(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, 
 		UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
-
-	//checking authority
-	ENetRole server_local;
-	ENetRole server_remote;
-
-	ENetRole client_local;
-	ENetRole client_remote;
-
 };

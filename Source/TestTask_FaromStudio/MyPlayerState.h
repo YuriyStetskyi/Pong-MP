@@ -16,10 +16,6 @@ class TESTTASK_FAROMSTUDIO_API AMyPlayerState : public APlayerState
 public:
 	
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	bool bothPlayersWantToRematch;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	bool thisPlayerWantsToRematch;
 	
 };

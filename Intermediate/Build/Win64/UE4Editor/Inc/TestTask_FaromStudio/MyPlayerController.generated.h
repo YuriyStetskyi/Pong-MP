@@ -18,23 +18,15 @@ class AActor;
 #define Pong_MP_Source_TestTask_FaromStudio_MyPlayerController_h_18_RPC_WRAPPERS \
 	virtual void MultiCast_MoveOnInput_Implementation(AActor* thePawn, float mInput, float deltaTime); \
 	virtual void Server_MoveOnInput_Implementation(AActor* thePawn, float mInput, float deltaTime); \
-	virtual void Server_SetWantsToRematch_Implementation(bool wantsRematch); \
-	virtual void Multicast_SetWantsToRematch_Implementation(bool wantsRematch); \
  \
 	DECLARE_FUNCTION(execMultiCast_MoveOnInput); \
-	DECLARE_FUNCTION(execServer_MoveOnInput); \
-	DECLARE_FUNCTION(execServer_SetWantsToRematch); \
-	DECLARE_FUNCTION(execMulticast_SetWantsToRematch); \
-	DECLARE_FUNCTION(execcpp_SetWantsToRematch);
+	DECLARE_FUNCTION(execServer_MoveOnInput);
 
 
 #define Pong_MP_Source_TestTask_FaromStudio_MyPlayerController_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execMultiCast_MoveOnInput); \
-	DECLARE_FUNCTION(execServer_MoveOnInput); \
-	DECLARE_FUNCTION(execServer_SetWantsToRematch); \
-	DECLARE_FUNCTION(execMulticast_SetWantsToRematch); \
-	DECLARE_FUNCTION(execcpp_SetWantsToRematch);
+	DECLARE_FUNCTION(execServer_MoveOnInput);
 
 
 #define Pong_MP_Source_TestTask_FaromStudio_MyPlayerController_h_18_EVENT_PARMS \
@@ -44,19 +36,11 @@ class AActor;
 		float mInput; \
 		float deltaTime; \
 	}; \
-	struct MyPlayerController_eventMulticast_SetWantsToRematch_Parms \
-	{ \
-		bool wantsRematch; \
-	}; \
 	struct MyPlayerController_eventServer_MoveOnInput_Parms \
 	{ \
 		AActor* thePawn; \
 		float mInput; \
 		float deltaTime; \
-	}; \
-	struct MyPlayerController_eventServer_SetWantsToRematch_Parms \
-	{ \
-		bool wantsRematch; \
 	};
 
 
@@ -67,13 +51,7 @@ private: \
 	friend struct Z_Construct_UClass_AMyPlayerController_Statics; \
 public: \
 	DECLARE_CLASS(AMyPlayerController, APlayerController, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/TestTask_FaromStudio"), NO_API) \
-	DECLARE_SERIALIZER(AMyPlayerController) \
-	enum class ENetFields_Private : uint16 \
-	{ \
-		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
-		wantsToRematch=NETFIELD_REP_START, \
-		NETFIELD_REP_END=wantsToRematch	}; \
-	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+	DECLARE_SERIALIZER(AMyPlayerController)
 
 
 #define Pong_MP_Source_TestTask_FaromStudio_MyPlayerController_h_18_INCLASS \
@@ -82,13 +60,7 @@ private: \
 	friend struct Z_Construct_UClass_AMyPlayerController_Statics; \
 public: \
 	DECLARE_CLASS(AMyPlayerController, APlayerController, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/TestTask_FaromStudio"), NO_API) \
-	DECLARE_SERIALIZER(AMyPlayerController) \
-	enum class ENetFields_Private : uint16 \
-	{ \
-		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
-		wantsToRematch=NETFIELD_REP_START, \
-		NETFIELD_REP_END=wantsToRematch	}; \
-	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
+	DECLARE_SERIALIZER(AMyPlayerController)
 
 
 #define Pong_MP_Source_TestTask_FaromStudio_MyPlayerController_h_18_STANDARD_CONSTRUCTORS \
@@ -117,8 +89,8 @@ public: \
 
 #define Pong_MP_Source_TestTask_FaromStudio_MyPlayerController_h_18_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__movementInput() { return STRUCT_OFFSET(AMyPlayerController, movementInput); } \
-	FORCEINLINE static uint32 __PPO__posessedPawn() { return STRUCT_OFFSET(AMyPlayerController, posessedPawn); } \
-	FORCEINLINE static uint32 __PPO__FoundActors() { return STRUCT_OFFSET(AMyPlayerController, FoundActors); }
+	FORCEINLINE static uint32 __PPO__FoundActors() { return STRUCT_OFFSET(AMyPlayerController, FoundActors); } \
+	FORCEINLINE static uint32 __PPO__found_bluePlatform() { return STRUCT_OFFSET(AMyPlayerController, found_bluePlatform); }
 
 
 #define Pong_MP_Source_TestTask_FaromStudio_MyPlayerController_h_15_PROLOG \

@@ -5,7 +5,14 @@
 
 // Sets default values
 APlayer_Platform::APlayer_Platform()
-	:wallNormal(0, 0, 0)
+	:wallNormal(0, 0, 0),
+	alreadyPosessed(false),
+	isHittingWall(false),
+	otherActorIsBall(false),
+	points(0),
+	bothPlayersWantToRematch(false),
+	thisPlayerWantsToRematch(false),
+	platformHidden(false)
 {
  	// Set this pawn to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
@@ -21,11 +28,8 @@ APlayer_Platform::APlayer_Platform()
 	//initializing stuff
 	SetReplicates(true);
 	SetReplicateMovement(true);
-	alreadyPosessed = false;
-	isHittingWall = false;
+	NetUpdateFrequency = 6000.0f;
 
-	NetUpdateFrequency = 3000.0f;
-	points = 0;
 	
 }
 
@@ -35,17 +39,6 @@ void APlayer_Platform::BeginPlay()
 	Super::BeginPlay();
 	boxCollider->OnComponentBeginOverlap.AddDynamic(this, &APlayer_Platform::OnOverlapBegin);
 	boxCollider->OnComponentEndOverlap.AddDynamic(this, &APlayer_Platform::OnOverlapEnd);
-
-	if (HasAuthority())
-	{
-		server_local = this->GetLocalRole();
-		server_remote = this->GetRemoteRole();
-	}
-	else
-	{
-		client_local = this->GetLocalRole();
-		client_remote = this->GetRemoteRole();
-	}
 }
 
 // Called every frame
@@ -105,17 +98,6 @@ void APlayer_Platform::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, 
 	{
 		otherActorIsBall = true;
 	}
-
-	//when setting location add true to get a sweep
-	if (HasAuthority()) //otherwise i get message logged twice and i spent an hour trying to figure out why
-	{
-		//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Blue, OtherComp->GetName() + " hit the platform");
-	}
-	else
-	{
-
-	}
-	
 }
 
 void APlayer_Platform::OnOverlapEnd(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)

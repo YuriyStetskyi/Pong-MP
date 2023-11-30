@@ -7,15 +7,16 @@ AMyGameModeBase::AMyGameModeBase()
 	:playersCount(0),
 	allPlayersAreLoggedIn(false),
 	hostWantsToRematch(false),
-	clientWantsToRematch(false)
+	clientWantsToRematch(false),
+	P1_controller(nullptr),
+	P2_controller(nullptr),
+	P1_platform(nullptr),
+	P2_platform(nullptr)
 {
 	PrimaryActorTick.bCanEverTick = true;
 
 	PlayerControllerClass = AMyPlayerController::StaticClass();
-	GameStateClass = AMyGameStateBase::StaticClass();
-	PlayerStateClass = AMyPlayerState::StaticClass();
 	srand(time(NULL));	
-	
 }
 
 void AMyGameModeBase::Tick(float DeltaTime)
@@ -31,8 +32,6 @@ void AMyGameModeBase::PostLogin(APlayerController* NewPlayer)
 	++playersCount;
 	FindPlatforms();
 	
-	//GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, "a player Logged in");
-
 	if (playersCount == 1)
 	{
 		P1_controller = (AMyPlayerController*)NewPlayer; //first thing you should do

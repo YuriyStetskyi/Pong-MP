@@ -7,20 +7,24 @@
 
 // Sets default values
 ABall::ABall()
+	:speedStart(1000),
+	speedLimit(2000),
+	speedUp_Amount(150),
+	isOverlapping(false),
+	pointsToWin(5)
 {
 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
+
+	//components
 	sphereCollider = CreateDefaultSubobject<USphereComponent>(TEXT("SphereCollider"));
 	SetRootComponent(sphereCollider);
 	ballMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("BallMesh"));
 	ballMesh->SetupAttachment(sphereCollider);
-	role = this->GetLocalRole();
 	this->SetReplicates(true); //DONT FORGET TO SET YOUR ACTOR TO BE ABLE TO REPLICATE
 	this->SetReplicateMovement(true);
-	NetUpdateFrequency = 3000.0f;
-	isOverlapping = false;
-	speed = 1000;
-	speedLimit = 2000;
+	NetUpdateFrequency = 6000.0f;
+	speed = speedStart;
 }
 
 // Called when the game starts or when spawned
@@ -33,16 +37,12 @@ void ABall::BeginPlay()
 	sphereCollider->OnComponentBeginOverlap.AddDynamic(this, &ABall::OnOverlapBegin);
 	sphereCollider->OnComponentEndOverlap.AddDynamic(this, &ABall::OnOverlapEnd);
 	
-	//didnt have time to figure out why cant access gamemode from client, 
-	//or other way to make random starting vector work so its hardcoded
 	if (HasAuthority())
 	{
-		//movementDirection = GetActorForwardVector();
 		SetRandomDirection(movementDirection);
 		movementDirection.Normalize();
 	}
 
-	FindBall();
 	FindPlatforms();
 	
 }
@@ -50,9 +50,7 @@ void ABall::BeginPlay()
 void ABall::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
 {
 	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
-	//DOREPLIFETIME(ABall, movementDirection);
 	DOREPLIFETIME(ABall, newLocation);
-	DOREPLIFETIME(ABall, storedDirection);
 }
 
 // Called every frame
@@ -63,15 +61,7 @@ void ABall::Tick(float DeltaTime)
 	
 	if (gamemode && gamemode->allPlayersAreLoggedIn && HasAuthority())
 	{
-		//MoveRandomly(DeltaTime);
 		Multicast_MoveRandomly(DeltaTime);
-		//Client_MoveRandomly(DeltaTime);
-
-	}
-	else if (!HasAuthority())
-	{
-		//MoveRandomly(DeltaTime);
-		//Server_MoveRandomly(DeltaTime);
 	}
 
 	CheckForGameOver();
@@ -83,13 +73,6 @@ void ABall::MoveRandomly(float deltaTime)
 	FVector velocity = movementDirection * speed;
 	newLocation = GetActorLocation() + (velocity * deltaTime);
 	SetActorLocation(newLocation, true); //if dont setup bSweep to true wont get FHitResult later
-}
-
-
-void ABall::FindBall()
-{
-	UGameplayStatics::GetAllActorsOfClass(GetWorld(), AActor::StaticClass(), FoundActors);
-	foundBall = FindActorByTag(FoundActors, "ball");
 }
 
 void ABall::FindPlatforms()
@@ -136,7 +119,7 @@ void ABall::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* Oth
 		}
 		else if (speed <= speedLimit && SpeedUpNextCollision && (OtherActor->ActorHasTag("BluePlayerPlatform") || OtherActor->ActorHasTag("RedPlayerPlatform")))
 		{
-			speed += 150;
+			speed += speedUp_Amount;
 			SpeedUpNextCollision = false;
 			//cant return here because after speed up it still has to collide with platform
 		}
@@ -173,18 +156,7 @@ void ABall::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* Oth
 			}
 				
 		}
-		/*else if (OtherActor->ActorHasTag("RedPlayerPlatform"))
-		{
-			if (PlatformWasHitInFront(OtherActor, SweepResult.ImpactNormal))
-			{
-				GEngine->AddOnScreenDebugMessage(-1, 1.5f, FColor::Red, OtherComp->GetName() + " hit in front");
-				FVector adjustmentVector = SweepResult.Location - OtherActor->GetTransform().GetLocation();
-				FVector reflectionVector = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);
-				movementDirection = reflectionVector + adjustmentVector;
-				movementDirection.Normalize();
-				return;
-			}
-		}*/
+
 
 		//default
 		//NOTE FOR FUTURE
@@ -210,17 +182,6 @@ void ABall::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* Oth
 			//bounced back and double collision will mean it will bounce outside
 		}
 		
-		////default
-		//if (!isOverlapping)
-		//{
-		//	isOverlapping = true;
-		//	//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Magenta, "ball hit " + OtherComp->GetName());
-		//} //saving from bugs
-		//else if (isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") || !OtherActor->ActorHasTag("RedPlayerPlatform")))
-		//{
-		//	storedDirection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);
-		//}
-		
 	}
 
 
@@ -234,8 +195,8 @@ void ABall::OnOverlapEnd(UPrimitiveComponent* OverlappedComponent, AActor* Other
 	{
 		if (OtherActor->ActorHasTag("PlayZone"))
 		{
-			GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Black, "FIX THIS BUG FOR GODS SAKE", true, FVector2D(1.5, 1.5));
-			speed = 1000;
+			GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Black, "BALL WENT OUTSIDE PLAY ZONE(FIND A BUG)", true, FVector2D(1.5, 1.5));
+			speed = speedStart;
 			SetActorLocation(startLocation);
 			SetRandomDirection(movementDirection);
 			movementDirection.Normalize();
@@ -247,8 +208,6 @@ void ABall::OnOverlapEnd(UPrimitiveComponent* OverlappedComponent, AActor* Other
 			return;
 		}
 
-
-
 		if (isOverlapping)
 		{
 			isOverlapping = false;
@@ -257,16 +216,6 @@ void ABall::OnOverlapEnd(UPrimitiveComponent* OverlappedComponent, AActor* Other
 		{
 			//its always overlapping when ending overlap
 		}
-
-		//if (HasAuthority() && isOverlapping)
-		//{
-		//	//GEngine->AddOnScreenDebugMessage(-1, 0.7f, FColor::Cyan, "ball left " + OtherComp->GetName());
-		//	isOverlapping = false;
-		//}
-		//else if (HasAuthority() && !isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") || !OtherActor->ActorHasTag("RedPlayerPlatform")))
-		//{
-		//	movementDirection = storedDirection;
-		//}
 	}
 	
 }
@@ -319,14 +268,12 @@ void ABall::Server_MoveRandomly_Implementation(float deltaTime)
 
 void ABall::CheckForGameOver()
 {
-	if (((APlayer_Platform*)host_platform)->points == 5)
+	if (((APlayer_Platform*)host_platform)->points == pointsToWin)
 	{
-		//GEngine->AddOnScreenDebugMessage(-1, 1000000, FColor::Blue, "GAME OVER - BLUE WINS", true, FVector2D(3, 3));
 		ResetBall();
 	}
-	else if (((APlayer_Platform*)client_platform)->points == 5)
+	else if (((APlayer_Platform*)client_platform)->points == pointsToWin)
 	{
-		//GEngine->AddOnScreenDebugMessage(-1, 1000000, FColor::Red, "GAME OVER - RED WINS", true, FVector2D(3, 3));
 		ResetBall();
 	}
 }
@@ -335,13 +282,11 @@ void ABall::ResetBall()
 {
 	SetActorLocation(startLocation);
 	speed = 0;
-	//((APlayer_Platform*)host_platform)->points = 0;
-	//((APlayer_Platform*)client_platform)->points = 0;
 }
 
 void ABall::cpp_RestartGame()
 {
-	speed = 1000;
+	speed = speedStart;
 	SetRandomDirection(movementDirection);
 	movementDirection.Normalize();
 }

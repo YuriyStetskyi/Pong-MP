@@ -6,14 +6,11 @@
 
 AMyPlayerController::AMyPlayerController()
 	:movementInput(0),
-	posessedPawn(NULL),
 	found_bluePlatform(nullptr),
 	found_redPlatform(nullptr),
-	allPlayersLoggedIn(false),
-	points(0)
+	allPlayersLoggedIn(false)
 {
 	SetReplicates(true);
-
 }
 
 void AMyPlayerController::Tick(float deltaTime)
@@ -22,8 +19,6 @@ void AMyPlayerController::Tick(float deltaTime)
 
 	if (allPlayersLoggedIn && HasAuthority()) 
 	{
-		//MoveOnInput(found_bluePlatform, movementInput, deltaTime);
-		//Client_MoveOnInput(found_bluePlatform, movementInput, deltaTime);
 		MultiCast_MoveOnInput(found_bluePlatform, movementInput, deltaTime);
 	}
 
@@ -35,7 +30,6 @@ void AMyPlayerController::Tick(float deltaTime)
 	
 }
 
-
 void AMyPlayerController::SetupInputComponent()
 {
 	Super::SetupInputComponent();
@@ -43,18 +37,8 @@ void AMyPlayerController::SetupInputComponent()
 	FindPlatforms();
 
 	InputComponent->BindAxis("RightLeft", this, &AMyPlayerController::RightLeftMove);
-	InputComponent->BindAction("E_Pressed",IE_Pressed, this, &AMyPlayerController::ToggleVisibility);
 	found_bluePlatform->SetActorHiddenInGame(false);
-	found_redPlatform->SetActorHiddenInGame(false);
-
-	if (posessedPawn != NULL && HasAuthority())
-	{
-		//Possess((APawn*)found_bluePlatform);
-	}
-	else if (posessedPawn != NULL && !HasAuthority())
-	{
-		//Possess((APawn*)found_redPlatform);
-	}
+	found_redPlatform->SetActorHiddenInGame(false);	
 }
 
 void AMyPlayerController::MoveOnInput(AActor* pawn, float mInput, float deltaTime)
@@ -80,66 +64,6 @@ void AMyPlayerController::MoveOnInput(AActor* pawn, float mInput, float deltaTim
 	}
 }
 
-void AMyPlayerController::cpp_SetWantsToRematch(bool wantsRematch)
-{
-	/*if (HasAuthority())
-	{
-		Multicast_SetWantsToRematch(wantsRematch);
-	}
-	else
-	{
-		wantsToRematch = wantsRematch;
-		Server_SetWantsToRematch(wantsRematch);
-	}*/
-
-	((AMyPlayerState*)this->PlayerState)->thisPlayerWantsToRematch = true;
-}
-
-void AMyPlayerController::Multicast_SetWantsToRematch_Implementation(bool wantsRematch)
-{
-	wantsToRematch = wantsRematch;
-}
-
-void AMyPlayerController::Server_SetWantsToRematch_Implementation(bool wantsRematch)
-{
-	wantsToRematch = wantsRematch;
-}
-
-
-//void AMyPlayerController::SetHostWantsToRematch(bool hostWantsRematch)
-//{
-//	if (HasAuthority())
-//	{
-//		MultiCast_SetHostWantsToRematch(hostWantsRematch);
-//	}
-//}
-//
-//void AMyPlayerController::SetClientWantsToRematch(bool clientWantsRematch)
-//{
-//	if (!HasAuthority())
-//	{
-//		clientWantsToRematch = clientWantsRematch;
-//		Server_SetClientWantsToRematch(clientWantsRematch);
-//	}
-//}
-//
-//void AMyPlayerController::MultiCast_SetHostWantsToRematch_Implementation(bool hostWantsRematch)
-//{
-//	hostWantsToRematch = hostWantsRematch;
-//}
-//
-//void AMyPlayerController::Server_SetClientWantsToRematch_Implementation(bool clientWantsRematch)
-//{
-//	clientWantsToRematch = clientWantsRematch;
-//}
-
-void AMyPlayerController::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
-{
-	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
-	/*DOREPLIFETIME(AMyPlayerController, hostWantsToRematch);
-	DOREPLIFETIME(AMyPlayerController, clientWantsToRematch);*/
-}
-
 void AMyPlayerController::RightLeftMove(float value)
 {
 	if (FMath::Abs(value) > 0.2)
@@ -157,17 +81,6 @@ void AMyPlayerController::FindPlatforms()
 	UGameplayStatics::GetAllActorsOfClass(GetWorld(), AActor::StaticClass(), FoundActors);
 	found_bluePlatform = FindActorByTag(FoundActors, "BluePlayerPlatform");
 	found_redPlatform = FindActorByTag(FoundActors, "RedPlayerPlatform");
-
-	if (HasAuthority())
-	{
-		posessedPawn = (APawn*)found_bluePlatform;
-	}
-	else
-	{
-		posessedPawn = (APawn*)found_redPlatform;
-	}
-	
-	
 }
 
 AActor* AMyPlayerController::FindActorByTag(TArray<AActor*>& actors, const FName& tag)
@@ -192,17 +105,4 @@ void AMyPlayerController::MultiCast_MoveOnInput_Implementation(AActor* thePawn, 
 	MoveOnInput(thePawn, mInput, deltaTime);
 }
 
-void AMyPlayerController::ToggleVisibility()
-{
-	if (posessedPawn != NULL)
-	{
-		if (posessedPawn->IsHidden())
-		{
-			posessedPawn->SetActorHiddenInGame(false);
-		}
-		else
-		{
-			posessedPawn->SetActorHiddenInGame(true);
-		}
-	}
-}
+

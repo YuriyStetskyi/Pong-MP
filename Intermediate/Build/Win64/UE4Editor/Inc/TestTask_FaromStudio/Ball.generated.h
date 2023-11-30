@@ -16,8 +16,8 @@ struct FHitResult;
 #endif
 #define TESTTASK_FAROMSTUDIO_Ball_generated_h
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_SPARSE_DATA
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_RPC_WRAPPERS \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_SPARSE_DATA
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_RPC_WRAPPERS \
 	virtual void Server_MoveRandomly_Implementation(float deltaTime); \
 	virtual void Multicast_MoveRandomly_Implementation(float deltaTime); \
 	virtual void Client_MoveRandomly_Implementation(float deltaTime); \
@@ -30,7 +30,7 @@ struct FHitResult;
 	DECLARE_FUNCTION(execOnOverlapBegin);
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execcpp_RestartGame); \
 	DECLARE_FUNCTION(execServer_MoveRandomly); \
@@ -40,7 +40,7 @@ struct FHitResult;
 	DECLARE_FUNCTION(execOnOverlapBegin);
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_EVENT_PARMS \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_EVENT_PARMS \
 	struct Ball_eventClient_MoveRandomly_Parms \
 	{ \
 		float deltaTime; \
@@ -55,8 +55,8 @@ struct FHitResult;
 	};
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_CALLBACK_WRAPPERS
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_INCLASS_NO_PURE_DECLS \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_CALLBACK_WRAPPERS
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABall(); \
 	friend struct Z_Construct_UClass_ABall_Statics; \
@@ -67,13 +67,12 @@ public: \
 	{ \
 		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
 		movementDirection=NETFIELD_REP_START, \
-		storedDirection, \
 		newLocation, \
 		NETFIELD_REP_END=newLocation	}; \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_INCLASS \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesABall(); \
 	friend struct Z_Construct_UClass_ABall_Statics; \
@@ -84,13 +83,12 @@ public: \
 	{ \
 		NETFIELD_REP_START=(uint16)((int32)Super::ENetFields_Private::NETFIELD_REP_END + (int32)1), \
 		movementDirection=NETFIELD_REP_START, \
-		storedDirection, \
 		newLocation, \
 		NETFIELD_REP_END=newLocation	}; \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_STANDARD_CONSTRUCTORS \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ABall(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ABall) \
@@ -103,7 +101,7 @@ private: \
 public:
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_ENHANCED_CONSTRUCTORS \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ABall(ABall&&); \
@@ -114,41 +112,40 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ABall)
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_PRIVATE_PROPERTY_OFFSET \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__sphereCollider() { return STRUCT_OFFSET(ABall, sphereCollider); } \
 	FORCEINLINE static uint32 __PPO__ballMesh() { return STRUCT_OFFSET(ABall, ballMesh); } \
 	FORCEINLINE static uint32 __PPO__movementDirection() { return STRUCT_OFFSET(ABall, movementDirection); } \
-	FORCEINLINE static uint32 __PPO__storedDirection() { return STRUCT_OFFSET(ABall, storedDirection); } \
 	FORCEINLINE static uint32 __PPO__newLocation() { return STRUCT_OFFSET(ABall, newLocation); } \
 	FORCEINLINE static uint32 __PPO__isOverlapping() { return STRUCT_OFFSET(ABall, isOverlapping); }
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_13_PROLOG \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_EVENT_PARMS
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_12_PROLOG \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_EVENT_PARMS
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_GENERATED_BODY_LEGACY \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_PRIVATE_PROPERTY_OFFSET \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_SPARSE_DATA \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_RPC_WRAPPERS \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_CALLBACK_WRAPPERS \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_INCLASS \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_STANDARD_CONSTRUCTORS \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_PRIVATE_PROPERTY_OFFSET \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_SPARSE_DATA \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_RPC_WRAPPERS \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_CALLBACK_WRAPPERS \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_INCLASS \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_GENERATED_BODY \
+#define Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_PRIVATE_PROPERTY_OFFSET \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_SPARSE_DATA \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_CALLBACK_WRAPPERS \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_INCLASS_NO_PURE_DECLS \
-	Pong_MP_Source_TestTask_FaromStudio_Ball_h_16_ENHANCED_CONSTRUCTORS \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_PRIVATE_PROPERTY_OFFSET \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_SPARSE_DATA \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_CALLBACK_WRAPPERS \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_INCLASS_NO_PURE_DECLS \
+	Pong_MP_Source_TestTask_FaromStudio_Ball_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

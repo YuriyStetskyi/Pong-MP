@@ -41,11 +41,11 @@ private:
 	//players
 	AMyPlayerController* P1_controller;
 	AMyPlayerController* P2_controller;
+	TArray<AActor*> FoundActors;
+	AActor* P1_platform;
+	AActor* P2_platform;
 	int playersCount;
 
 	void FindPlatforms();
 	AActor* FindActorByTag(TArray<AActor*>& FoundActors, const FName& tag);
-	TArray<AActor*> FoundActors;
-	AActor* P1_platform;
-	AActor* P2_platform;
 };

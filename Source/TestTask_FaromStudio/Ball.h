@@ -7,7 +7,6 @@
 #include "Components/SphereComponent.h"
 #include "Kismet/GameplayStatics.h"
 #include "MyGameModeBase.h"
-//#include "Net/UnrealNetwork.h"
 #include "Ball.generated.h"
 
 UCLASS()
@@ -34,26 +33,17 @@ private:
 	//gamemode
 	AMyGameModeBase* gamemode;
 
-	//network
-	ENetRole role;
-
 	//components
 	UPROPERTY(EdiTAnywhere, Category = "MyStuff")
 	USphereComponent* sphereCollider;
 	UPROPERTY(EditAnywhere, Category = "MyStuff")
 	UStaticMeshComponent* ballMesh;
 	
-	AActor* foundBall;
-	void FindBall();
-	TArray<AActor*> FoundActors;
-	AActor* FindActorByTag(TArray<AActor*>& FoundActors, const FName& tag);
 
 	//movement
 	virtual void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
 	UPROPERTY(Replicated)
 	FVector movementDirection;
-	UPROPERTY(Replicated)
-	FVector storedDirection;
 	UPROPERTY(Replicated)
 	FVector newLocation;
 	UFUNCTION()
@@ -81,12 +71,12 @@ private:
 	void SetRandomDirection(FVector& movementDirectionVector);
 	bool SpeedUpNextCollision;
 	int speed;
+	int speedStart;
 	int speedLimit;
-
+	int speedUp_Amount;
 	float updFREQ;
 
 	bool PlatformWasHitInFront(AActor* OtherActor, const FVector& hitResultsNormalVector);
-
 	FVector firstOverlapVector;
 	
 
@@ -94,10 +84,13 @@ private:
 	FVector startLocation;
 	AActor* host_platform;
 	AActor* client_platform;
+	TArray<AActor*> FoundActors;
+	AActor* FindActorByTag(TArray<AActor*>& FoundActors, const FName& tag);
 	void FindPlatforms();
 	void CheckForGameOver();
+	int pointsToWin;
 
-	
+public:
 	void ResetBall();
 
 	UFUNCTION(BlueprintCallable)

@@ -153,7 +153,7 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 		{ "ModuleRelativePath", "Ball.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABall, nullptr, "cpp_RestartGame", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABall, nullptr, "cpp_RestartGame", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABall_cpp_RestartGame_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_ABall_cpp_RestartGame()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -384,10 +384,6 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 #endif
 		static const UE4CodeGen_Private::FStructPropertyParams NewProp_movementDirection;
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_storedDirection_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FStructPropertyParams NewProp_storedDirection;
-#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_newLocation_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FStructPropertyParams NewProp_newLocation;
@@ -406,7 +402,7 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ABall_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_ABall_Client_MoveRandomly, "Client_MoveRandomly" }, // 2513773635
-		{ &Z_Construct_UFunction_ABall_cpp_RestartGame, "cpp_RestartGame" }, // 1874876611
+		{ &Z_Construct_UFunction_ABall_cpp_RestartGame, "cpp_RestartGame" }, // 2403574131
 		{ &Z_Construct_UFunction_ABall_Multicast_MoveRandomly, "Multicast_MoveRandomly" }, // 4047588565
 		{ &Z_Construct_UFunction_ABall_OnOverlapBegin, "OnOverlapBegin" }, // 787443766
 		{ &Z_Construct_UFunction_ABall_OnOverlapEnd, "OnOverlapEnd" }, // 2640832631
@@ -443,12 +439,6 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 #endif
 	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_ABall_Statics::NewProp_movementDirection = { "movementDirection", nullptr, (EPropertyFlags)0x0040000000000020, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABall, movementDirection), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_ABall_Statics::NewProp_movementDirection_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ABall_Statics::NewProp_movementDirection_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABall_Statics::NewProp_storedDirection_MetaData[] = {
-		{ "ModuleRelativePath", "Ball.h" },
-	};
-#endif
-	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_ABall_Statics::NewProp_storedDirection = { "storedDirection", nullptr, (EPropertyFlags)0x0040000000000020, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABall, storedDirection), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_ABall_Statics::NewProp_storedDirection_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ABall_Statics::NewProp_storedDirection_MetaData)) };
-#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABall_Statics::NewProp_newLocation_MetaData[] = {
 		{ "ModuleRelativePath", "Ball.h" },
 	};
@@ -469,7 +459,6 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABall_Statics::NewProp_sphereCollider,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABall_Statics::NewProp_ballMesh,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABall_Statics::NewProp_movementDirection,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABall_Statics::NewProp_storedDirection,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABall_Statics::NewProp_newLocation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABall_Statics::NewProp_isOverlapping,
 	};
@@ -500,7 +489,7 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABall, 3125186999);
+	IMPLEMENT_CLASS(ABall, 615295195);
 	template<> TESTTASK_FAROMSTUDIO_API UClass* StaticClass<ABall>()
 	{
 		return ABall::StaticClass();
@@ -510,12 +499,10 @@ void EmptyLinkFunctionForGeneratedCodeBall() {}
 	void ABall::ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const
 	{
 		static const FName Name_movementDirection(TEXT("movementDirection"));
-		static const FName Name_storedDirection(TEXT("storedDirection"));
 		static const FName Name_newLocation(TEXT("newLocation"));
 
 		const bool bIsValid = true
 			&& Name_movementDirection == ClassReps[(int32)ENetFields_Private::movementDirection].Property->GetFName()
-			&& Name_storedDirection == ClassReps[(int32)ENetFields_Private::storedDirection].Property->GetFName()
 			&& Name_newLocation == ClassReps[(int32)ENetFields_Private::newLocation].Property->GetFName();
 
 		checkf(bIsValid, TEXT("UHT Generated Rep Indices do not match runtime populated Rep Indices for properties in ABall"));
