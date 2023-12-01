@@ -1,3 +1,16 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP).
-  Target is up to date
-  Total execution time: 0.40 seconds
+  Failed to delete file 'D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Binaries\Win64\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.pdb'
+      Exception: The process cannot access the file 'D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Binaries\Win64\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.pdb' because it is being used by another process.
+  Attempting to retry...
+  Building TestTask_FaromStudioEditor...
+  Using Visual Studio 2022 14.37.32822 toolchain (D:\Programming\Visual Studio\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] MyGameModeBase.cpp
+D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Source\TestTask_FaromStudio\MyGameModeBase.cpp(7): warning C5038: data member 'AMyGameModeBase::playersCount' will be initialized after data member 'AMyGameModeBase::allPlayersAreLoggedIn'
+    [2/4] UE4Editor-TestTask_FaromStudio-Win64-DebugGame.lib
+       Creating library D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\DebugGame\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.lib and object D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\DebugGame\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.exp
+    [3/4] UE4Editor-TestTask_FaromStudio-Win64-DebugGame.dll
+       Creating library D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\DebugGame\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.suppressed.lib and object D:\Programming\Unreal Engine 4\UE_4.27 Projects\Pong_MP\Intermediate\Build\Win64\UE4Editor\DebugGame\TestTask_FaromStudio\UE4Editor-TestTask_FaromStudio-Win64-DebugGame.suppressed.exp
+    [4/4] TestTask_FaromStudioEditor-Win64-DebugGame.target
+  Total time in Parallel executor: 1.45 seconds
+  Total execution time: 2.87 seconds

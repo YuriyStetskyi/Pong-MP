@@ -84,10 +84,10 @@ void AMyGameModeBase::CheckIfPlayersWantToRematch()
 		((APlayer_Platform*)P1_platform)->bothPlayersWantToRematch = true;
 		((APlayer_Platform*)P2_platform)->bothPlayersWantToRematch = true;
 	}
-	else if (!hostWantsToRematch && !clientWantsToRematch)
+	else
 	{
-		/*((APlayer_Platform*)P1_platform)->bothPlayersWantToRematch = false;
-		((APlayer_Platform*)P2_platform)->bothPlayersWantToRematch = false;*/
+		((APlayer_Platform*)P1_platform)->bothPlayersWantToRematch = false;
+		((APlayer_Platform*)P2_platform)->bothPlayersWantToRematch = false;
 	}
 }
 
