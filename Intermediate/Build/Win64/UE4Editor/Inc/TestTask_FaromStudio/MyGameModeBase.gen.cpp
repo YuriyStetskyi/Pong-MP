@@ -32,6 +32,11 @@ void EmptyLinkFunctionForGeneratedCodeMyGameModeBase() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_GameIsMultiplayer_MetaData[];
+#endif
+		static void NewProp_GameIsMultiplayer_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_GameIsMultiplayer;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_hostWantsToRematch_MetaData[];
 #endif
 		static void NewProp_hostWantsToRematch_SetBit(void* Obj);
@@ -59,6 +64,17 @@ void EmptyLinkFunctionForGeneratedCodeMyGameModeBase() {}
 	};
 #endif
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_GameIsMultiplayer_MetaData[] = {
+		{ "Category", "MyGameModeBase" },
+		{ "ModuleRelativePath", "MyGameModeBase.h" },
+	};
+#endif
+	void Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_GameIsMultiplayer_SetBit(void* Obj)
+	{
+		((AMyGameModeBase*)Obj)->GameIsMultiplayer = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_GameIsMultiplayer = { "GameIsMultiplayer", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AMyGameModeBase), &Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_GameIsMultiplayer_SetBit, METADATA_PARAMS(Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_GameIsMultiplayer_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_GameIsMultiplayer_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_hostWantsToRematch_MetaData[] = {
 		{ "Category", "MyGameModeBase" },
 		{ "Comment", "//checking if players want to rematch\n" },
@@ -83,6 +99,7 @@ void EmptyLinkFunctionForGeneratedCodeMyGameModeBase() {}
 	}
 	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_clientWantsToRematch = { "clientWantsToRematch", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AMyGameModeBase), &Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_clientWantsToRematch_SetBit, METADATA_PARAMS(Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_clientWantsToRematch_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_clientWantsToRematch_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMyGameModeBase_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_GameIsMultiplayer,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_hostWantsToRematch,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyGameModeBase_Statics::NewProp_clientWantsToRematch,
 	};
@@ -113,7 +130,7 @@ void EmptyLinkFunctionForGeneratedCodeMyGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMyGameModeBase, 1170199295);
+	IMPLEMENT_CLASS(AMyGameModeBase, 433318149);
 	template<> TESTTASK_FAROMSTUDIO_API UClass* StaticClass<AMyGameModeBase>()
 	{
 		return AMyGameModeBase::StaticClass();

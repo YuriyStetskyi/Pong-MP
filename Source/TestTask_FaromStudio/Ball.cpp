@@ -23,7 +23,7 @@ ABall::ABall()
 	ballMesh->SetupAttachment(sphereCollider);
 	this->SetReplicates(true); //DONT FORGET TO SET YOUR ACTOR TO BE ABLE TO REPLICATE
 	this->SetReplicateMovement(true);
-	NetUpdateFrequency = 6000.0f;
+	NetUpdateFrequency = 10000.0f;
 	speed = speedStart;
 }
 
@@ -148,8 +148,7 @@ void ABall::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* Oth
 				GEngine->AddOnScreenDebugMessage(-1, 1.5f, FColor::Blue, OtherComp->GetName() + " hit in front");
 				FVector adjustmentVector = SweepResult.Location - OtherActor->GetTransform().GetLocation();
 				adjustmentVector.Z = 0;
-				adjustmentVector.Normalize();
-				//FVector reflectionVector = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);	
+				adjustmentVector.Normalize();	
 				movementDirection = OtherActor->GetActorForwardVector() + adjustmentVector;
 				movementDirection.Normalize();
 				return;
@@ -159,19 +158,14 @@ void ABall::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* Oth
 
 
 		//default
-		//NOTE FOR FUTURE
-		//i think it still might go out of bounds in the corner (if two overlaps happen, second one will be ignored
-		//and this way object will go out of bounds, but this is fixable by taking dot product of the two reflection vectors,
-		//if dot product is positive it means they point in general direction which means ball wont go out of bounds if we allow
-		//both collisions to happen, but if its negative - omit second collision
 		if (!isOverlapping)
 		{
 			isOverlapping = true;
 			firstOverlapVector = movementDirection;
-			movementDirection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal); //to get Fhitresult make sure ur colliding with boxcollider and not mesh
+			movementDirection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);
 
 		}
-		else if (isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") || !OtherActor->ActorHasTag("RedPlayerPlatform")))
+		else if (isOverlapping && (!OtherActor->ActorHasTag("BluePlayerPlatform") && !OtherActor->ActorHasTag("RedPlayerPlatform")))
 		{
 			FVector currentReflection = FMath::GetReflectionVector(movementDirection, SweepResult.ImpactNormal);
 			if (FVector::DotProduct(firstOverlapVector, currentReflection) <= 0)

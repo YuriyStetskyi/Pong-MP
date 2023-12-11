@@ -33,6 +33,7 @@ private:
 	//movement
 	UPROPERTY(EdiTAnywhere, Category = "MyStuff")
 	float movementInput;
+	FVector cachedSlideDirection;
 	void RightLeftMove(float value);
 	void MoveOnInput(AActor* pawn, float mInput, float deltaTime);
 

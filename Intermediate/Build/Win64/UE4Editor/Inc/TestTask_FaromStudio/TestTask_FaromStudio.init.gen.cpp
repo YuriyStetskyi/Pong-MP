@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeTestTask_FaromStudio_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xE7D000F1,
+				0x4711CB76,
 				0xF5C0BAB2,
 				METADATA_PARAMS(nullptr, 0)
 			};

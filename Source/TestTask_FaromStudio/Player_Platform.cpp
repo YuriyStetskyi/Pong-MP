@@ -28,7 +28,7 @@ APlayer_Platform::APlayer_Platform()
 	//initializing stuff
 	SetReplicates(true);
 	SetReplicateMovement(true);
-	NetUpdateFrequency = 6000.0f;
+	NetUpdateFrequency = 10000.0f;
 
 	
 }
@@ -90,7 +90,6 @@ void APlayer_Platform::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, 
 	//wall collision detection
 	if (!(OtherActor->Tags.Contains("ball")))
 	{
-		otherActorIsBall = false;
 		wallNormal = SweepResult.ImpactNormal;
 		isHittingWall = true;
 	}
@@ -109,6 +108,10 @@ void APlayer_Platform::OnOverlapEnd(UPrimitiveComponent* OverlappedComp, AActor*
 	if (!(OtherActor->Tags.Contains("ball")))
 	{
 		isHittingWall = false;
+	}
+	else
+	{
+		otherActorIsBall = false;
 	}
 }
 

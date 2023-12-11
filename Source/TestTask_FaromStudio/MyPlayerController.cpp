@@ -56,9 +56,17 @@ void AMyPlayerController::MoveOnInput(AActor* pawn, float mInput, float deltaTim
 		if (pawnCasted->isHittingWall && !pawnCasted->otherActorIsBall && velocity != FVector::ZeroVector)
 		{
 			FVector slideDirection = pawnCasted->wallNormal;
+			cachedSlideDirection = slideDirection;
 			FVector slideVelocity = slideDirection * 800;
 			newLocation += slideVelocity * deltaTime;
 		}
+		else if (pawnCasted->isHittingWall && pawnCasted->otherActorIsBall && velocity != FVector::ZeroVector)
+		{
+
+			FVector slideVelocity = cachedSlideDirection * 800;
+			newLocation += slideVelocity * deltaTime;
+		}
+
 		pawn->SetActorLocation(newLocation, true);
 	
 	}

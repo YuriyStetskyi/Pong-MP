@@ -26,7 +26,11 @@ public:
 
 	//login handling
 	void PostLogin(APlayerController* NewPlayer);
+	void SetupMultiplayer(APlayerController* NewPlayer);
+	void SetupSingleplayer(APlayerController* NewPlayer);
 	bool allPlayersAreLoggedIn; 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	bool GameIsMultiplayer;
 
 	//checking if players want to rematch
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)

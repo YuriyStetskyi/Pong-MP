@@ -11,7 +11,8 @@ AMyGameModeBase::AMyGameModeBase()
 	P1_controller(nullptr),
 	P2_controller(nullptr),
 	P1_platform(nullptr),
-	P2_platform(nullptr)
+	P2_platform(nullptr),
+	GameIsMultiplayer(false)
 {
 	PrimaryActorTick.bCanEverTick = true;
 
@@ -31,11 +32,17 @@ void AMyGameModeBase::PostLogin(APlayerController* NewPlayer)
 
 	++playersCount;
 	FindPlatforms();
+
+	SetupMultiplayer(NewPlayer);
 	
+}
+
+void AMyGameModeBase::SetupMultiplayer(APlayerController* NewPlayer)
+{
 	if (playersCount == 1)
 	{
 		P1_controller = (AMyPlayerController*)NewPlayer; //first thing you should do
-		
+
 		FInputModeGameOnly inputMode;
 		P1_controller->SetInputMode(inputMode);
 		P1_controller->bShowMouseCursor = false;
@@ -48,7 +55,7 @@ void AMyGameModeBase::PostLogin(APlayerController* NewPlayer)
 	{
 		P2_controller = (AMyPlayerController*)NewPlayer; //first thing you should do
 		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, "All Players Logged in :)");
-		
+
 		FInputModeGameOnly inputMode;
 		P2_controller->SetInputMode(inputMode);
 		P2_controller->bShowMouseCursor = false;
@@ -60,10 +67,15 @@ void AMyGameModeBase::PostLogin(APlayerController* NewPlayer)
 
 		P2_controller->Tags.Add("clientController");
 	}
-	else if(playersCount > 2)
+	else if (playersCount > 2)
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, "more than 2 players are trying to login ");
 	}
+}
+
+void AMyGameModeBase::SetupSingleplayer(APlayerController* NewPlayer)
+{
+
 }
 
 void AMyGameModeBase::CheckIfPlayersWantToRematch()
